@@ -1,0 +1,47 @@
+{
+  "Darkwater Catacombs": {
+    "setShortName": "PIP",
+    "collectorNumber": "260",
+    "uuid": "15b3d4b7-972f-447f-a512-f40ceeba5d9c"
+  },
+  "Herald's Horn": {
+    "setShortName": "M3C",
+    "collectorNumber": "296",
+    "uuid": "2cfafee3-c060-44bd-be6e-8d36501d72d3"
+  },
+  "Plains": {
+    "setShortName": "SPM",
+    "collectorNumber": "189",
+    "uuid": "1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd"
+  },
+  "Skycloud Expanse": {
+    "setShortName": "EOC",
+    "collectorNumber": "181",
+    "uuid": "03f8c846-d80c-49a4-a562-e817cd0c6096"
+  },
+  "Swamp": {
+    "setShortName": "SOS",
+    "collectorNumber": "269",
+    "uuid": "1797d5c7-d3fa-4184-85ae-46db14ddf523"
+  },
+  "Swords to Plowshares": {
+    "setShortName": "TDC",
+    "collectorNumber": "134",
+    "uuid": "f87cf997-14b5-4a2c-a7d1-34b7de6561a2"
+  },
+  "Toxic Deluge": {
+    "setShortName": "SOC",
+    "collectorNumber": "120",
+    "uuid": "a1c2a8da-56b0-4cab-b07b-10cac92c72c5"
+  },
+  "Urza's Incubator": {
+    "setShortName": "MH3",
+    "collectorNumber": "297",
+    "uuid": "c4589226-6072-409b-b598-ebd87f675a6a"
+  },
+  "Worn Powerstone": {
+    "setShortName": "MH3",
+    "collectorNumber": "298",
+    "uuid": "ace686ad-9e3f-41b3-b8eb-d1b6d45eb4e1"
+  }
+}

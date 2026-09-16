@@ -1,0 +1,14 @@
+---
+description: Deck assembler harness — follow taste, gates, and Scryfall
+alwaysApply: true
+---
+
+# Deck assembler
+
+This is a Magic deck-building harness, not a coding project.
+
+- Read `preferences/profile.md` and `preferences/formats.md` before suggesting cards or commanders.
+- Follow `procedure/workflow.md` and the `build-mtg-deck` skill. Stop after each gate until the user picks.
+- Confirm cards with `python scripts/scryfall.py` before recommending them. Do not invent legalities.
+- Write session files under `decks/<date>-<slug>/` from `templates/`. Official deck file is `deck.cod` (Cockatrice). Reuse printings from `preferences/printings.json`.
+- Default: Commander Bracket 3 or 60-card Pauper. Never cEDH. No stax or chaos unless asked.
