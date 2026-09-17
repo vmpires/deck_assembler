@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_deck version="1">
+    <deckname>2026-09-17-nghathrod-horror</deckname>
+    <comments>Official artifact from deck assembler.
+Source: /workspace/decks/2026-09-17-nghathrod-horror/list.txt</comments>
+    <zone name="main">
+        <card number="1" name="Captain N'ghathrod" />
+        <card number="1" name="Ancient Cellarspawn" />
+        <card number="1" name="Appendage Amalgam" />
+        <card number="1" name="Aboleth Spawn" />
+        <card number="1" name="Silent Hallcreeper" />
+        <card number="1" name="Zellix, Sanity Flayer" />
+        <card number="1" name="Umbris, Fear Manifest" />
+        <card number="1" name="Grazilaxx, Illithid Scholar" />
+        <card number="1" name="Nighthowler" />
+        <card number="1" name="Overcharged Amalgam" />
+        <card number="1" name="Uchuulon" />
+        <card number="1" name="Ahriman" />
+        <card number="1" name="Blistergrub" />
+        <card number="1" name="Consuming Aberration" />
+        <card number="1" name="Bruvac the Grandiloquent" />
+        <card number="1" name="Baleful Strix" />
+        <card number="1" name="Bloodcurdler" />
+        <card number="1" name="Clammy Prowler" />
+        <card number="1" name="Phenomenon Investigators" />
+        <card number="1" name="Altar of the Wretched" />
+        <card number="1" name="Chasm Skulker" />
+        <card number="1" name="Comet Crawler" />
+        <card number="1" name="Nemesis of Reason" />
+        <card number="1" name="Carrion Locust" />
+        <card number="1" name="Abyssal Gatekeeper" />
+        <card number="1" name="Boneshard Slasher" />
+        <card number="1" name="Flesh Carver" />
+        <card number="1" name="Sewer Nemesis" />
+        <card number="1" name="Sheoldred's Edict" />
+        <card number="1" name="Cast Down" />
+        <card number="1" name="Cover of Darkness" />
+        <card number="1" name="Kindred Discovery" />
+        <card number="1" name="Phyrexian Arena" />
+        <card number="1" name="Court of Cunning" />
+        <card number="1" name="Sol Ring" />
+        <card number="1" name="Arcane Signet" />
+        <card number="1" name="Dimir Signet" />
+        <card number="1" name="Talisman of Dominance" />
+        <card number="1" name="Fellwar Stone" />
+        <card number="1" name="Thought Vessel" />
+        <card number="1" name="Mind Stone" />
+        <card number="1" name="Lightning Greaves" />
+        <card number="1" name="Swiftfoot Boots" />
+        <card number="1" name="Spellskite" />
+        <card number="1" name="Herald's Horn" setShortName="M3C" collectorNumber="296" uuid="2cfafee3-c060-44bd-be6e-8d36501d72d3" />
+        <card number="1" name="Urza's Incubator" setShortName="MH3" collectorNumber="297" uuid="c4589226-6072-409b-b598-ebd87f675a6a" />
+        <card number="1" name="Dimir Keyrune" />
+        <card number="1" name="Counterspell" />
+        <card number="1" name="An Offer You Can't Refuse" />
+        <card number="1" name="Drown in the Loch" />
+        <card number="1" name="Bitter Triumph" />
+        <card number="1" name="Feed the Swarm" />
+        <card number="1" name="Go for the Throat" />
+        <card number="1" name="Toxic Deluge" setShortName="SOC" collectorNumber="120" uuid="a1c2a8da-56b0-4cab-b07b-10cac92c72c5" />
+        <card number="1" name="Damnation" />
+        <card number="1" name="Deadly Dispute" />
+        <card number="1" name="Preordain" />
+        <card number="1" name="Night's Whisper" />
+        <card number="1" name="Maddening Cacophony" />
+        <card number="1" name="Demonic Tutor" />
+        <card number="1" name="Negate" />
+        <card number="1" name="Extract from Darkness" />
+        <card number="1" name="Command Tower" />
+        <card number="1" name="Morphic Pool" />
+        <card number="1" name="Polluted Delta" />
+        <card number="1" name="Darkwater Catacombs" setShortName="PIP" collectorNumber="260" uuid="15b3d4b7-972f-447f-a512-f40ceeba5d9c" />
+        <card number="1" name="River of Tears" />
+        <card number="1" name="Exotic Orchard" />
+        <card number="1" name="Path of Ancestry" />
+        <card number="1" name="Tainted Isle" />
+        <card number="1" name="Underground River" />
+        <card number="1" name="Creeping Tar Pit" />
+        <card number="1" name="Nephalia Drownyard" />
+        <card number="1" name="Myriad Landscape" />
+        <card number="1" name="Sunken Hollow" />
+        <card number="1" name="Watery Grave" />
+        <card number="1" name="Clearwater Pathway" />
+        <card number="1" name="Drowned Catacomb" />
+        <card number="1" name="Shipwreck Marsh" />
+        <card number="1" name="Undercity Sewers" />
+        <card number="1" name="Restless Reef" />
+        <card number="1" name="Evolving Wilds" />
+        <card number="1" name="Terramorphic Expanse" />
+        <card number="1" name="Choked Estuary" />
+        <card number="8" name="Island" />
+        <card number="8" name="Swamp" setShortName="SOS" collectorNumber="269" uuid="1797d5c7-d3fa-4184-85ae-46db14ddf523" />
+    </zone>
+    <zone name="side" />
+</cockatrice_deck>
