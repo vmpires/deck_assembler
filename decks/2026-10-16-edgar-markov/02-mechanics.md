@@ -72,7 +72,7 @@ Four distinct 99s. All exemplars confirmed with `python3 scripts/scryfall.py car
 
 ## Stop (cleared)
 
-Stage 3 in progress — see `list.txt`, `03-deck.md`, `deck.cod`.
+Stage 3 complete — see `list.txt`, `03-deck.md`, `deck.cod`.
 
 ---
 

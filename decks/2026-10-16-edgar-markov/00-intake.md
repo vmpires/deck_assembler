@@ -34,4 +34,4 @@ Edgar is a strong match: **combat**, **tokens**, and **tribal**. The eminence en
 | --- | --- |
 | Commanders | **Skipped** — commander locked: **Edgar Markov** |
 | Mechanics | **Picked** — hybrid **A + D** |
-| Full list | In progress |
+| Full list | **Done** — `list.txt` / `deck.cod` |

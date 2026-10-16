@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_deck version="1">
+    <deckname>Markov Legion</deckname>
+    <comments>Official artifact from deck assembler.
+Source: decks/2026-10-16-edgar-markov/list.txt
+Format: commander
+Commander: Edgar Markov</comments>
+    <zone name="main">
+        <card number="1" name="Edgar Markov" />
+        <card number="1" name="Knight of the Ebon Legion" />
+        <card number="1" name="Vicious Conquistador" />
+        <card number="1" name="Vampire of the Dire Moon" />
+        <card number="1" name="Dusk Legion Zealot" />
+        <card number="1" name="Adanto Vanguard" />
+        <card number="1" name="Legion Lieutenant" />
+        <card number="1" name="Gifted Aetherborn" />
+        <card number="1" name="Charismatic Conqueror" />
+        <card number="1" name="Dusk Legion Duelist" />
+        <card number="1" name="Vampire Socialite" />
+        <card number="1" name="Vampire Nighthawk" />
+        <card number="1" name="Captivating Vampire" />
+        <card number="1" name="Stromkirk Captain" />
+        <card number="1" name="Drana, Liberator of Malakir" />
+        <card number="1" name="Olivia, Mobilized for War" />
+        <card number="1" name="Forerunner of the Legion" />
+        <card number="1" name="Markov Baron" />
+        <card number="1" name="Mavren Fein, Dusk Apostle" />
+        <card number="1" name="Preacher of the Schism" />
+        <card number="1" name="Clavileño, First of the Blessed" />
+        <card number="1" name="Welcoming Vampire" />
+        <card number="1" name="Bloodline Keeper" />
+        <card number="1" name="Edgar, Charmed Groom" />
+        <card number="1" name="Sanctum Seeker" />
+        <card number="1" name="Twilight Prophet" />
+        <card number="1" name="Bloodletter of Aclazotz" />
+        <card number="1" name="Champion of Dusk" />
+        <card number="1" name="Malakir Bloodwitch" />
+        <card number="1" name="Olivia Voldaren" />
+        <card number="1" name="Mirror Entity" />
+        <card number="1" name="Shared Animosity" />
+        <card number="1" name="Vanquisher's Banner" />
+        <card number="1" name="Herald's Horn" setShortName="M3C" collectorNumber="296" uuid="2cfafee3-c060-44bd-be6e-8d36501d72d3" />
+        <card number="1" name="Urza's Incubator" setShortName="MH3" collectorNumber="297" uuid="c4589226-6072-409b-b598-ebd87f675a6a" />
+        <card number="1" name="Cover of Darkness" />
+        <card number="1" name="Metallic Mimic" />
+        <card number="1" name="Roaming Throne" />
+        <card number="1" name="Legion's Landing" />
+        <card number="1" name="Skullclamp" />
+        <card number="1" name="Kindred Dominance" />
+        <card number="1" name="Sol Ring" />
+        <card number="1" name="Arcane Signet" />
+        <card number="1" name="Talisman of Hierarchy" />
+        <card number="1" name="Talisman of Conviction" />
+        <card number="1" name="Talisman of Indulgence" />
+        <card number="1" name="Fellwar Stone" />
+        <card number="1" name="Jeska's Will" />
+        <card number="1" name="Demonic Tutor" />
+        <card number="1" name="Night's Whisper" />
+        <card number="1" name="Swords to Plowshares" setShortName="TDC" collectorNumber="134" uuid="f87cf997-14b5-4a2c-a7d1-34b7de6561a2" />
+        <card number="1" name="Path to Exile" />
+        <card number="1" name="Anguished Unmaking" />
+        <card number="1" name="Terminate" />
+        <card number="1" name="Fracture" />
+        <card number="1" name="Generous Gift" />
+        <card number="1" name="Toxic Deluge" setShortName="SOC" collectorNumber="120" uuid="a1c2a8da-56b0-4cab-b07b-10cac92c72c5" />
+        <card number="1" name="Damn" />
+        <card number="1" name="Teferi's Protection" />
+        <card number="1" name="Akroma's Will" />
+        <card number="1" name="Boros Charm" />
+        <card number="1" name="Lightning Greaves" />
+        <card number="1" name="Swiftfoot Boots" />
+        <card number="1" name="Rising of the Day" />
+        <card number="3" name="Plains" setShortName="SPM" collectorNumber="189" uuid="1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd" />
+        <card number="4" name="Swamp" setShortName="SOS" collectorNumber="269" uuid="1797d5c7-d3fa-4184-85ae-46db14ddf523" />
+        <card number="2" name="Mountain" />
+        <card number="1" name="Command Tower" />
+        <card number="1" name="Exotic Orchard" />
+        <card number="1" name="Path of Ancestry" />
+        <card number="1" name="Unclaimed Territory" />
+        <card number="1" name="Cavern of Souls" />
+        <card number="1" name="Secluded Courtyard" />
+        <card number="1" name="Three Tree City" />
+        <card number="1" name="Plaza of Heroes" />
+        <card number="1" name="Voldaren Estate" />
+        <card number="1" name="Spectator Seating" />
+        <card number="1" name="Vault of Champions" />
+        <card number="1" name="Luxury Suite" />
+        <card number="1" name="Sacred Foundry" />
+        <card number="1" name="Godless Shrine" />
+        <card number="1" name="Blood Crypt" />
+        <card number="1" name="Isolated Chapel" />
+        <card number="1" name="Dragonskull Summit" />
+        <card number="1" name="Clifftop Retreat" />
+        <card number="1" name="Battlefield Forge" />
+        <card number="1" name="Caves of Koilos" />
+        <card number="1" name="Sulfurous Springs" />
+        <card number="1" name="Concealed Courtyard" />
+        <card number="1" name="Blackcleave Cliffs" />
+        <card number="1" name="Inspiring Vantage" />
+        <card number="1" name="Bojuka Bog" />
+        <card number="1" name="City of Brass" />
+        <card number="1" name="Bloodstained Mire" />
+    </zone>
+    <zone name="side" />
+</cockatrice_deck>
