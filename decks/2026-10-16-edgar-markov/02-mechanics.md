@@ -63,7 +63,20 @@ Four distinct 99s. All exemplars confirmed with `python3 scripts/scryfall.py car
 
 ---
 
-## Stop
+## Pick (recorded)
+
+- **Hybrid A + D** — Eminence Swarm with a Midrange Lords spine
+- **Game Changers (3):** **Jeska's Will**, **Teferi's Protection**, **Demonic Tutor**
+- **Roaming Throne:** include (flag price)
+- No aristocrats package (Plan C stays out)
+
+## Stop (cleared)
+
+Stage 3 in progress — see `list.txt`, `03-deck.md`, `deck.cod`.
+
+---
+
+## Stop (historical)
 
 Waiting for a pick: **A**, **B**, **C**, or **D** (or a hybrid, e.g. “A with a light drain package”).
 
