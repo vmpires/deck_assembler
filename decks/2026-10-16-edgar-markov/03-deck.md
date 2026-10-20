@@ -16,30 +16,32 @@ Cast cheap **Vampire** spells so **Edgar Markov** (usually still in the command 
 
 ## Categories
 
-Counts match `list.txt` / `deck.cod` (100 cards, 36 lands).
+Type counts match `list.txt` / `deck.cod` (100 cards, no card images).
 
 - **Commander:** Edgar Markov (1)
-- **Ramp / mana:** Sol Ring, Arcane Signet, Talisman of Hierarchy, Talisman of Conviction, Talisman of Indulgence, Fellwar Stone, Jeska's Will (7)
-- **Card advantage:** Night's Whisper, Demonic Tutor, Champion of Dusk, Twilight Prophet, Welcoming Vampire, Dusk Legion Zealot, Vanquisher's Banner, Skullclamp (8)
-- **Interaction:** Swords to Plowshares, Path to Exile, Anguished Unmaking, Terminate, Fracture, Generous Gift, Toxic Deluge, Damn, Kindred Dominance (9)
-- **Engine / synergy:** remaining Vampires (including lords, **Mavren Fein**, **Drana**, **Roaming Throne**, **Cover of Darkness**, **Herald's Horn**, **Urza's Incubator**, **Legion's Landing**, **Metallic Mimic**, **Shared Animosity**, **Mirror Entity**) (33)
-- **Protection / combat:** Teferi's Protection, Akroma's Will, Boros Charm, Lightning Greaves, Swiftfoot Boots, Rising of the Day (6)
-- **Win conditions:** go-wide combat (Shared Animosity / anthems / Edgar attack), Sanctum Seeker drain, Malakir Bloodwitch ETB
-- **Lands:** 36 (3 Plains, 4 Swamp, 2 Mountain, shocks, checks, pains, fast lands, tribal lands, **Cavern of Souls**, **Three Tree City**, **Bloodstained Mire**)
+- **Creatures:** 32
+- **Enchantments:** 4
+- **Artifacts:** 12
+- **Instants:** 9
+- **Sorceries:** 6
+- **Lands:** 36 (3 Plains, 4 Swamp, 2 Mountain + duals / tribal lands)
 - **Sideboard (Pauper):** n/a
 
-## Official artifact
+Role notes: ramp is the rocks + **Jeska's Will**; card advantage is **Night's Whisper**, **Demonic Tutor**, **Champion of Dusk**, **Twilight Prophet**, **Welcoming Vampire**, **Dusk Legion Zealot**, **Vanquisher's Banner**, **Skullclamp**; win is go-wide combat plus **Sanctum Seeker** / **Malakir Bloodwitch**.
 
-[`deck.cod`](deck.cod) — Cockatrice XML from `python3 scripts/to_cockatrice.py decks/2026-10-16-edgar-markov/`. Preferred prints from `preferences/printings.json` applied to **Herald's Horn**, **Urza's Incubator**, **Swords to Plowshares**, **Toxic Deluge**, **Plains**, **Swamp**.
+## Import
+
+- **Official:** [`deck.cod`](deck.cod) (Cockatrice). Written with `python3 scripts/to_cockatrice.py decks/2026-10-16-edgar-markov/`.
+- Working copy: [`list.txt`](list.txt) — Commander / Deck sections, type headers as comments, no images.
+
+Preferred prints from `preferences/printings.json` applied to **Herald's Horn**, **Urza's Incubator**, **Swords to Plowshares**, **Toxic Deluge**, **Plains**, **Swamp**.
 
 ## Validate
 
-`list.txt`:
+`list.txt` and `deck.cod`:
 
 ```
 format=commander cards=100 identity=WBR commander=Edgar Markov
-WARN  expensive: Edgar Markov ($44.22); Charismatic Conqueror ($24.39); Bloodletter of Aclazotz ($35.08); Urza's Incubator ($20.59); Cover of Darkness ($22.08); Roaming Throne ($49.89); Jeska's Will ($40.03); Demonic Tutor ($66.93); Teferi's Protection ($44.02); Cavern of Souls ($50.45); Three Tree City ($28.55)
+WARN  expensive: Edgar Markov ($44.45); Charismatic Conqueror ($26.60); Bloodletter of Aclazotz ($35.06); Roaming Throne ($52.20); Cover of Darkness ($21.91); Urza's Incubator ($20.60); Teferi's Protection ($44.66); Jeska's Will ($39.99); Demonic Tutor ($65.39); Cavern of Souls ($50.45); Three Tree City ($28.89)
 OK
 ```
-
-`deck.cod`: same **OK** output.

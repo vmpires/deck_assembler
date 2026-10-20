@@ -1,6 +1,8 @@
-# Edgar Markov — Bracket 3, Plan A+D (Eminence Swarm + Midrange Lords)
+Commander
 1 Edgar Markov
-# Cheap Vampires (eminence fuel)
+
+Deck
+# Creatures
 1 Knight of the Ebon Legion
 1 Vicious Conquistador
 1 Vampire of the Dire Moon
@@ -11,7 +13,6 @@
 1 Charismatic Conqueror
 1 Dusk Legion Duelist
 1 Vampire Socialite
-# Lords, attack value, midrange
 1 Vampire Nighthawk
 1 Captivating Vampire
 1 Stromkirk Captain
@@ -32,44 +33,43 @@
 1 Malakir Bloodwitch
 1 Olivia Voldaren
 1 Mirror Entity
-# Tribal engine
+1 Metallic Mimic
+1 Roaming Throne
+# Enchantments
 1 Shared Animosity
+1 Cover of Darkness
+1 Legion's Landing
+1 Rising of the Day
+# Artifacts
 1 Vanquisher's Banner
 1 Herald's Horn
 1 Urza's Incubator
-1 Cover of Darkness
-1 Metallic Mimic
-1 Roaming Throne
-1 Legion's Landing
 1 Skullclamp
-1 Kindred Dominance
-# Ramp
 1 Sol Ring
 1 Arcane Signet
 1 Talisman of Hierarchy
 1 Talisman of Conviction
 1 Talisman of Indulgence
 1 Fellwar Stone
-1 Jeska's Will
-# Draw / tutor
-1 Demonic Tutor
-1 Night's Whisper
-# Interaction
+1 Lightning Greaves
+1 Swiftfoot Boots
+# Instants
 1 Swords to Plowshares
 1 Path to Exile
 1 Anguished Unmaking
 1 Terminate
 1 Fracture
 1 Generous Gift
-1 Toxic Deluge
-1 Damn
-# Protection / combat
 1 Teferi's Protection
 1 Akroma's Will
 1 Boros Charm
-1 Lightning Greaves
-1 Swiftfoot Boots
-1 Rising of the Day
+# Sorceries
+1 Kindred Dominance
+1 Jeska's Will
+1 Demonic Tutor
+1 Night's Whisper
+1 Toxic Deluge
+1 Damn
 # Lands
 3 Plains
 4 Swamp

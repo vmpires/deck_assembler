@@ -37,39 +37,39 @@ Commander: Edgar Markov</comments>
         <card number="1" name="Malakir Bloodwitch" />
         <card number="1" name="Olivia Voldaren" />
         <card number="1" name="Mirror Entity" />
+        <card number="1" name="Metallic Mimic" />
+        <card number="1" name="Roaming Throne" />
         <card number="1" name="Shared Animosity" />
+        <card number="1" name="Cover of Darkness" />
+        <card number="1" name="Legion's Landing" />
+        <card number="1" name="Rising of the Day" />
         <card number="1" name="Vanquisher's Banner" />
         <card number="1" name="Herald's Horn" setShortName="M3C" collectorNumber="296" uuid="2cfafee3-c060-44bd-be6e-8d36501d72d3" />
         <card number="1" name="Urza's Incubator" setShortName="MH3" collectorNumber="297" uuid="c4589226-6072-409b-b598-ebd87f675a6a" />
-        <card number="1" name="Cover of Darkness" />
-        <card number="1" name="Metallic Mimic" />
-        <card number="1" name="Roaming Throne" />
-        <card number="1" name="Legion's Landing" />
         <card number="1" name="Skullclamp" />
-        <card number="1" name="Kindred Dominance" />
         <card number="1" name="Sol Ring" />
         <card number="1" name="Arcane Signet" />
         <card number="1" name="Talisman of Hierarchy" />
         <card number="1" name="Talisman of Conviction" />
         <card number="1" name="Talisman of Indulgence" />
         <card number="1" name="Fellwar Stone" />
-        <card number="1" name="Jeska's Will" />
-        <card number="1" name="Demonic Tutor" />
-        <card number="1" name="Night's Whisper" />
+        <card number="1" name="Lightning Greaves" />
+        <card number="1" name="Swiftfoot Boots" />
         <card number="1" name="Swords to Plowshares" setShortName="TDC" collectorNumber="134" uuid="f87cf997-14b5-4a2c-a7d1-34b7de6561a2" />
         <card number="1" name="Path to Exile" />
         <card number="1" name="Anguished Unmaking" />
         <card number="1" name="Terminate" />
         <card number="1" name="Fracture" />
         <card number="1" name="Generous Gift" />
-        <card number="1" name="Toxic Deluge" setShortName="SOC" collectorNumber="120" uuid="a1c2a8da-56b0-4cab-b07b-10cac92c72c5" />
-        <card number="1" name="Damn" />
         <card number="1" name="Teferi's Protection" />
         <card number="1" name="Akroma's Will" />
         <card number="1" name="Boros Charm" />
-        <card number="1" name="Lightning Greaves" />
-        <card number="1" name="Swiftfoot Boots" />
-        <card number="1" name="Rising of the Day" />
+        <card number="1" name="Kindred Dominance" />
+        <card number="1" name="Jeska's Will" />
+        <card number="1" name="Demonic Tutor" />
+        <card number="1" name="Night's Whisper" />
+        <card number="1" name="Toxic Deluge" setShortName="SOC" collectorNumber="120" uuid="a1c2a8da-56b0-4cab-b07b-10cac92c72c5" />
+        <card number="1" name="Damn" />
         <card number="3" name="Plains" setShortName="SPM" collectorNumber="189" uuid="1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd" />
         <card number="4" name="Swamp" setShortName="SOS" collectorNumber="269" uuid="1797d5c7-d3fa-4184-85ae-46db14ddf523" />
         <card number="2" name="Mountain" />
