@@ -1,0 +1,103 @@
+Commander
+1 Edgar Markov
+
+Deck
+# Creatures
+1 Knight of the Ebon Legion
+1 Vicious Conquistador
+1 Vampire of the Dire Moon
+1 Dusk Legion Zealot
+1 Adanto Vanguard
+1 Legion Lieutenant
+1 Gifted Aetherborn
+1 Charismatic Conqueror
+1 Dusk Legion Duelist
+1 Vampire Socialite
+1 Vampire Nighthawk
+1 Captivating Vampire
+1 Stromkirk Captain
+1 Drana, Liberator of Malakir
+1 Olivia, Mobilized for War
+1 Forerunner of the Legion
+1 Markov Baron
+1 Mavren Fein, Dusk Apostle
+1 Preacher of the Schism
+1 Clavileño, First of the Blessed
+1 Welcoming Vampire
+1 Bloodline Keeper
+1 Edgar, Charmed Groom
+1 Sanctum Seeker
+1 Twilight Prophet
+1 Bloodletter of Aclazotz
+1 Champion of Dusk
+1 Malakir Bloodwitch
+1 Olivia Voldaren
+1 Mirror Entity
+1 Metallic Mimic
+1 Roaming Throne
+# Enchantments
+1 Shared Animosity
+1 Cover of Darkness
+1 Legion's Landing
+1 Rising of the Day
+# Artifacts
+1 Vanquisher's Banner
+1 Herald's Horn
+1 Urza's Incubator
+1 Skullclamp
+1 Sol Ring
+1 Arcane Signet
+1 Talisman of Hierarchy
+1 Talisman of Conviction
+1 Talisman of Indulgence
+1 Fellwar Stone
+1 Lightning Greaves
+1 Swiftfoot Boots
+# Instants
+1 Swords to Plowshares
+1 Path to Exile
+1 Anguished Unmaking
+1 Terminate
+1 Fracture
+1 Generous Gift
+1 Teferi's Protection
+1 Akroma's Will
+1 Boros Charm
+# Sorceries
+1 Kindred Dominance
+1 Jeska's Will
+1 Demonic Tutor
+1 Night's Whisper
+1 Toxic Deluge
+1 Damn
+# Lands
+3 Plains
+4 Swamp
+2 Mountain
+1 Command Tower
+1 Exotic Orchard
+1 Path of Ancestry
+1 Unclaimed Territory
+1 Cavern of Souls
+1 Secluded Courtyard
+1 Three Tree City
+1 Plaza of Heroes
+1 Voldaren Estate
+1 Spectator Seating
+1 Vault of Champions
+1 Luxury Suite
+1 Sacred Foundry
+1 Godless Shrine
+1 Blood Crypt
+1 Isolated Chapel
+1 Dragonskull Summit
+1 Clifftop Retreat
+1 Battlefield Forge
+1 Caves of Koilos
+1 Sulfurous Springs
+1 Concealed Courtyard
+1 Blackcleave Cliffs
+1 Inspiring Vantage
+1 Bojuka Bog
+1 City of Brass
+1 Bloodstained Mire
