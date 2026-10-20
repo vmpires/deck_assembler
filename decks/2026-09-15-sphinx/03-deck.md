@@ -3,35 +3,37 @@
 - **Name:** Sphinx Control
 - **Format:** commander
 - **Commander / shell:** Yennett, Cryptic Sovereign
-- **Mechanic:** A (odd Sphinx tribal) + C (odd-cost Esper control)
+- **Mechanic:** A (odd Sphinx tribal) + C (odd-cost Esper control), leaner curve
 - **Bracket (EDH) or role (Pauper):** Bracket 3
 - **Game Changers (EDH):** none
-- **Expensive cards to flag:** Urza's Incubator (~$20), Spellseeker (~$18), Raffine's Tower (~$13), Raise the Palisade (~$12), Swan Song (~$10). Scryfall USD for the list is ~$180.
+- **Expensive cards to flag:** Urza's Incubator (~$20), Spellseeker (~$18), Raffine's Tower (~$13), Raise the Palisade (~$12), Swan Song (~$10)
 
 ## Game plan
 
-Keep the top card odd. Attack Yennett (flying, vigilance, menace) and free-cast a 5- or 7-drop Sphinx, a tribal enchantment, or an answer. Unesh, Dream Trawler, and Isperia, Supreme Judge are even — cast them from hand. Interaction is almost all odd (Swords, Void Rend, Toxic Deluge, Cleansing Nova) so it is also a legal Yennett hit. Win in the air, with Kindred Dominance / Raise the Palisade as one-sided board wipes, or by casting Approach of the Second Sun **from hand** (Yennett cannot win with it; that ability requires from-hand).
+Keep the top card odd, attack Yennett, free-cast a Sphinx or an odd answer. Early turns now have real plays: Judge's Familiar, Baleful Strix, Fatal Push, Warden of Evos Isle (other flyers cost {1} less), Empyrean Eagle. Unesh and Dream Trawler are even — cast them from hand. Win in the air; Raise the Palisade as the one-sided clear; Magister Sphinx as the life-total punch.
 
-X spells are not in the list. Do not put even rocks on top; Brainstorm / Opt / Prognostic Sphinx / Mystic Sanctuary (return an odd instant) fix the top.
+Even-from-hand speed: Counterspell, Supreme Verdict, Smuggler's Copter, Baleful Strix. Do not leave those on top for Yennett.
 
 ## Categories
 
-Counts should match `list.txt` (100 cards, 37 lands).
+Counts match `deck.cod` / `list.txt` (100 cards, 36 lands).
 
 - **Commander:** Yennett, Cryptic Sovereign (1)
-- **Ramp / mana:** Sol Ring, Wayfarer's Bauble, Arcane Signet, Talisman of Dominance, Talisman of Progress, Talisman of Hierarchy, Thought Vessel, Fellwar Stone, Worn Powerstone, Gilded Lotus (10)
-- **Card advantage:** Brainstorm, Preordain, Opt, Consider, Read the Bones, Brainsurge, Phyrexian Arena, Kindred Discovery, Vanquisher's Banner, Trinket Mage, Spellseeker (11)
-- **Interaction:** Swords to Plowshares, Path to Exile, Pongify, Rapid Hybridization, Swan Song, An Offer You Can't Refuse, Void Rend, Anguished Unmaking, Generous Gift, Stroke of Midnight, Toxic Deluge, Cleansing Nova, Time Wipe, Absorb, Dovin's Veto, Kindred Dominance, Raise the Palisade (17)
-- **Engine / synergy:** 17 Sphinxes (Raffine, Prognostic, Dazzling, Defiler of Dreams, Glyph Keeper, Isperia the Inscrutable, Sphinx of the Revelation, Windreader, Magister, Enigma Sphinx, Enigma Thief, Inspired, Sphinx of Uthuun, Sphinx of the Final Word, Unesh, Dream Trawler, Isperia, Supreme Judge); Herald's Horn, Urza's Incubator, Reflections of Littjara; Aqueous Form, Whispersilk Cloak, Lightning Greaves (23)
-- **Win conditions:** flying damage, Magister Sphinx (set a life total to 10), Approach of the Second Sun from hand (1, counted here; already listed as a card in the 100)
-- **Lands:** 37 (4 Island, 3 Plains, 3 Swamp, Path of Ancestry, Mystic Sanctuary, Esper duals/triome, Command Tower, Reliquary Tower, Fabled Passage)
+- **Ramp / mana:** Sol Ring, Wayfarer's Bauble, Arcane Signet, Talisman of Dominance, Talisman of Progress, Talisman of Hierarchy, Thought Vessel, Fellwar Stone (8)
+- **Card advantage:** Brainstorm, Preordain, Opt, Consider, Read the Bones, Brainsurge, Phyrexian Arena, Kindred Discovery, Vanquisher's Banner, Trinket Mage, Spellseeker, Smuggler's Copter (12)
+- **Interaction:** Swords to Plowshares, Path to Exile, Pongify, Rapid Hybridization, Fatal Push, Swan Song, An Offer You Can't Refuse, Counterspell, Void Rend, Anguished Unmaking, Generous Gift, Stroke of Midnight, Toxic Deluge, Cleansing Nova, Time Wipe, Supreme Verdict, Absorb, Dovin's Veto, Raise the Palisade (19)
+- **Engine / synergy:** 13 Sphinxes in the 99 (Raffine, Prognostic, Dazzling, Defiler of Dreams, Glyph Keeper, Isperia the Inscrutable, Sphinx of the Revelation, Windreader, Magister, Enigma Sphinx, Unesh, Dream Trawler, Serum Sovereign); Warden of Evos Isle, Empyrean Eagle, Brazen Borrower, Baleful Strix, Judge's Familiar; Herald's Horn, Urza's Incubator, Reflections of Littjara; Aqueous Form, Whispersilk Cloak, Lightning Greaves (24)
+- **Win conditions:** flying damage, Magister Sphinx, Raise the Palisade
+- **Lands:** 36 (4 Island, 3 Plains, 3 Swamp, Path of Ancestry, Mystic Sanctuary, Esper duals/triome, Command Tower, Reliquary Tower, Fabled Passage)
 - **Sideboard (Pauper):** n/a
 
-Approach is in the 100 once (win conditions), not double-counted in the numeric total: 1+10+11+17+23+37 = 99, plus Approach = 100.
+1+8+12+19+24+36 = 100.
+
+**Cuts vs previous list:** Approach of the Second Sun, Kindred Dominance, Sphinx of Uthuun, Sphinx of the Final Word, Inspired Sphinx, Enigma Thief, Isperia, Supreme Judge, Gilded Lotus, Worn Powerstone, Temple of Deceit.
 
 ## Official artifact
 
-[`deck.cod`](deck.cod) — Cockatrice XML. Regenerated with `python scripts/to_cockatrice.py decks/2026-09-15-sphinx/`. This is the file to open in Cockatrice.
+[`deck.cod`](deck.cod) — Cockatrice XML. Regenerated with `python scripts/to_cockatrice.py decks/2026-09-15-sphinx/`. Preferred prints from `preferences/printings.json` are applied. Copy this file into Cockatrice to play the new list.
 
 ## Import
 
@@ -52,18 +54,18 @@ Deck
 1 Windreader Sphinx
 1 Magister Sphinx
 1 Enigma Sphinx
-1 Enigma Thief
-1 Inspired Sphinx
-1 Sphinx of Uthuun
-1 Sphinx of the Final Word
 1 Unesh, Criosphinx Sovereign
 1 Dream Trawler
-1 Isperia, Supreme Judge
+1 Serum Sovereign
+1 Warden of Evos Isle
+1 Empyrean Eagle
+1 Brazen Borrower
+1 Baleful Strix
+1 Judge's Familiar
 1 Herald's Horn
 1 Urza's Incubator
 1 Kindred Discovery
 1 Reflections of Littjara
-1 Kindred Dominance
 1 Raise the Palisade
 1 Vanquisher's Banner
 1 Brainstorm
@@ -78,14 +80,15 @@ Deck
 1 Talisman of Hierarchy
 1 Thought Vessel
 1 Fellwar Stone
-1 Worn Powerstone
-1 Gilded Lotus
+1 Smuggler's Copter
 1 Swords to Plowshares
 1 Path to Exile
 1 Pongify
 1 Rapid Hybridization
+1 Fatal Push
 1 Swan Song
 1 An Offer You Can't Refuse
+1 Counterspell
 1 Void Rend
 1 Anguished Unmaking
 1 Generous Gift
@@ -93,6 +96,7 @@ Deck
 1 Toxic Deluge
 1 Cleansing Nova
 1 Time Wipe
+1 Supreme Verdict
 1 Absorb
 1 Dovin's Veto
 1 Aqueous Form
@@ -101,7 +105,6 @@ Deck
 1 Read the Bones
 1 Brainsurge
 1 Phyrexian Arena
-1 Approach of the Second Sun
 1 Trinket Mage
 1 Spellseeker
 1 Command Tower
@@ -119,7 +122,6 @@ Deck
 1 Drowned Catacomb
 1 Temple of Enlightenment
 1 Temple of Silence
-1 Temple of Deceit
 1 Adarkar Wastes
 1 Caves of Koilos
 1 Underground River

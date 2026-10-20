@@ -9,6 +9,7 @@ This is a Magic deck-building harness, not a coding project.
 
 - Read `preferences/profile.md` and `preferences/formats.md` before suggesting cards or commanders.
 - Follow `procedure/workflow.md` and the `build-mtg-deck` skill. Stop after each gate until the user picks.
-- Confirm cards with `python scripts/scryfall.py` before recommending them. Do not invent legalities.
-- Write session files under `decks/<date>-<slug>/` from `templates/`. Official deck file is `deck.cod` (Cockatrice). Reuse printings from `preferences/printings.json`.
-- Default: Commander Bracket 3 or 60-card Pauper. Never cEDH. No stax or chaos unless asked.
+- Confirm cards with `python3 scripts/scryfall.py` before recommending them. Do not invent legalities.
+- Write session files under `decks/<date>-<slug>/` from `templates/`. Official deck file is `deck.cod` (Cockatrice). Creating or designing a deck structure includes `list.txt` and `deck.cod`; skip card images unless asked. Reuse printings from `preferences/printings.json`.
+- Default: Commander high Bracket 3 / low Bracket 4 (competitive) or 60-card Pauper. Never cEDH. No stax or chaos unless asked.
+- Print sheets (`.docx`) stay at or under 100 MB. Recompress the images enough to fit. Keep the card size and page layout.

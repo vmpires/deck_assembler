@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Sep 24 20:04:35 2026</lastLoadedTimestamp>
+    <deckname>CLOUD 2.0</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Official artifact from deck assembler.
+Source: decks/2026-09-24-cloud/list-2.0.txt
+Format: commander
+Commander: Cloud, Ex-SOLDIER</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Cloud, Ex-SOLDIER" setShortName="FIC" collectorNumber="2" uuid="07b4e4f8-6a31-4533-be51-668ce3ddc84f"/>
+        <card number="1" name="Aerith, Last Ancient" setShortName="FIC" collectorNumber="76" uuid="d041a51c-9a28-4b32-9da3-0f06807959f1"/>
+        <card number="1" name="Arcane Signet" setShortName="P30M" collectorNumber="1F" uuid="e96d398f-7393-4b8e-9972-2d7c394d23ad"/>
+        <card number="1" name="Nature's Lore" setShortName="MSC" collectorNumber="177" uuid="7afc4a15-5ff8-457a-aa62-803b2d78d912"/>
+        <card number="1" name="Barret Wallace" setShortName="FIN" collectorNumber="129" uuid="1a504dff-5857-4a61-ab99-616d5df7cf5a"/>
+        <card number="1" name="Barret, Avalanche Leader" setShortName="FIC" collectorNumber="79" uuid="2e37fd36-84f0-4869-bfae-da4b97c9725d"/>
+        <card number="1" name="Bastion Protector" setShortName="MSC" collectorNumber="122" uuid="1582488a-ad15-487e-9271-6d9330b46fb4"/>
+        <card number="1" name="Battlefield Forge" setShortName="FRC" collectorNumber="65" uuid="ef7d3676-b1db-4329-9201-18f8a6c54ea6"/>
+        <card number="1" name="Behemoth Sledge" setShortName="AFC" collectorNumber="180" uuid="179461b8-0a6b-48c5-9d1f-db8bcfecc6f9"/>
+        <card number="1" name="Bonders' Enclave" setShortName="OTC" collectorNumber="274" uuid="d174f42c-dcf2-4da9-812b-7e1d0991d466"/>
+        <card number="1" name="Bronze Guardian" setShortName="C21" collectorNumber="13" uuid="8cd5cc66-2ade-4142-9269-7d9905b029e5"/>
+        <card number="1" name="Brushland" setShortName="BRO" collectorNumber="259" uuid="18d236ce-3b78-403a-b5f9-4fb44123d85b"/>
+        <card number="1" name="Bugenhagen, Wise Elder" setShortName="FIC" collectorNumber="66" uuid="99155fae-507a-4eab-918a-bdee021e2262"/>
+        <card number="1" name="Cait Sith, Fortune Teller" setShortName="FIC" collectorNumber="54" uuid="3e0f6c53-6bbf-4d4c-bbbf-4dab22297527"/>
+        <card number="1" name="Mossfire Valley" setShortName="TDC" collectorNumber="378" uuid="29208018-8079-44bc-b33b-21cda4709bf2"/>
+        <card number="1" name="Canopy Vista" setShortName="MSC" collectorNumber="227" uuid="369e6485-fbc7-45f9-ac9d-2e26dd94f2d5"/>
+        <card number="1" name="Champion's Helm" setShortName="CMM" collectorNumber="375" uuid="c6548a30-577a-47e7-aa6e-8f6db1f7b78e"/>
+        <card number="1" name="Chaos Warp" setShortName="MSC" collectorNumber="359" uuid="64342374-ef4e-4f27-a24b-12ea1d5beb67"/>
+        <card number="1" name="Cid, Freeflier Pilot" setShortName="FIC" collectorNumber="13" uuid="afa9e3e6-a633-46ad-b52a-48574b2f3d07"/>
+        <card number="1" name="Cinder Glade" setShortName="MSC" collectorNumber="230" uuid="ec93087a-5728-40e8-8625-a1d175d5252c"/>
+        <card number="1" name="Clever Concealment" setShortName="MSC" collectorNumber="125" uuid="41d45a8a-ea1d-4fbc-86d2-5d6340f3b639"/>
+        <card number="1" name="Clifftop Retreat" setShortName="FRC" collectorNumber="67" uuid="cd112d5c-102f-45a6-b26c-f80cc97d4df2"/>
+        <card number="1" name="Cloud's Limit Break" setShortName="FIC" collectorNumber="14" uuid="1eb10082-4f0a-41f9-9a70-0d3c7ead249f"/>
+        <card number="1" name="Colossus Hammer" setShortName="AFC" collectorNumber="202" uuid="897a134e-7e61-4fe1-bbae-23ef1fe5c0cf"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Sungrass Prairie" setShortName="MSC" collectorNumber="497" uuid="62c1b56d-8d48-41aa-8bc9-276b984b0836"/>
+        <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
+        <card number="1" name="Conqueror's Flail" setShortName="2X2" collectorNumber="302" uuid="d5f5399a-26c6-4ecd-9715-f6440f6958f1"/>
+        <card number="1" name="Cultivate" setShortName="MSC" collectorNumber="172" uuid="e60deb92-f7dd-4f4e-9036-e47dd586f985"/>
+        <card number="1" name="Darksteel Plate" setShortName="2X2" collectorNumber="304" uuid="3f99fb1e-99a6-4c83-98eb-7bff23996a7f"/>
+        <card number="1" name="Dispatch" setShortName="MSC" collectorNumber="130" uuid="99d30a21-b003-4a17-a4c5-97811f230896"/>
+        <card number="1" name="Elena, Turk Recruit" setShortName="FIC" collectorNumber="18" uuid="d16553a3-65c3-4dec-af92-123d1e5dce10"/>
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
+        <card number="1" name="Fire-Lit Thicket" setShortName="2XM" collectorNumber="317" uuid="1927d645-ca43-4b8e-9932-7e70acca7aa6"/>
+        <card number="3" name="Forest" setShortName="HOB" collectorNumber="198" uuid="5f533364-0f91-4e49-aaeb-83c4c1f6d316"/>
+        <card number="1" name="Fortified Village" setShortName="MSC" collectorNumber="245" uuid="15f81ac6-a550-4782-a3a9-22d7fef1c206"/>
+        <card number="1" name="Furycalm Snarl" setShortName="MSC" collectorNumber="247" uuid="afc12892-4978-4442-ace5-c4dea5c0ee00"/>
+        <card number="1" name="Game Trail" setShortName="MKC" collectorNumber="264" uuid="2a84a604-7b05-4716-bcd8-40d2acdb76e8"/>
+        <card number="1" name="Harmonize" setShortName="MSC" collectorNumber="175" uuid="bd7138fb-6aa7-455e-b1f7-ca08d747277d"/>
+        <card number="1" name="Helitrooper" setShortName="FIC" collectorNumber="22" uuid="2073f387-9cdd-4184-8704-e6031c934b6d"/>
+        <card number="1" name="Hellkite Tyrant" setShortName="PLST" collectorNumber="RVR-111" uuid="a7cb4100-1696-4393-8f1f-634018e0b78f"/>
+        <card number="1" name="Hero's Blade" setShortName="MSC" collectorNumber="201" uuid="6f2fa911-5735-4ee2-828f-59dea6927b20"/>
+        <card number="1" name="Hero's Heirloom" setShortName="DMU" collectorNumber="231" uuid="5b7c0d2d-7107-4599-8d49-c7c57d21e467"/>
+        <card number="1" name="Jungle Shrine" setShortName="ECC" collectorNumber="154" uuid="0b1a84b6-4202-4413-80ed-4142c51e619a"/>
+        <card number="1" name="Lightning Greaves" setShortName="MSC" collectorNumber="202" uuid="b61634ae-05be-4b56-8ebb-9d4ade902e42"/>
+        <card number="1" name="Mask of Memory" setShortName="CMR" collectorNumber="324" uuid="ba275c02-8581-46a0-9c7c-8baa0fdb4982"/>
+        <card number="3" name="Mountain" setShortName="MSH" collectorNumber="440" uuid="bc4409dc-aadf-4c0e-a854-190ccc971ea5"/>
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de"/>
+        <card number="3" name="Plains" setShortName="SPM" collectorNumber="189" uuid="1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd"/>
+        <card number="1" name="Professional Face-Breaker" setShortName="SNC" collectorNumber="116" uuid="42acbf52-b137-44f0-a815-2817fe8d2da2"/>
+        <card number="1" name="Professor Hojo" setShortName="FIC" collectorNumber="69" uuid="107ffe2e-47eb-43de-bc9e-c68013b62912"/>
+        <card number="1" name="Puresteel Paladin" setShortName="CMM" collectorNumber="51" uuid="d8f8a324-006d-4cb8-9816-620a603b4229"/>
+        <card number="1" name="Radiant Grove" setShortName="TDC" collectorNumber="385" uuid="466fd4e6-f1dd-40c9-92df-1da48ab729d6"/>
+        <card number="1" name="Rampant Growth" setShortName="TDC" collectorNumber="265" uuid="b7c47024-5e08-4b17-b41a-7647f8b814b9"/>
+        <card number="1" name="Red XIII, Proud Warrior" setShortName="FIC" collectorNumber="91" uuid="10407b26-be28-4628-9567-746681e5c834"/>
+        <card number="1" name="Rootbound Crag" setShortName="MSC" collectorNumber="261" uuid="42d174e5-b8c2-45eb-8e08-1b94fc27cbee"/>
+        <card number="1" name="Rugged Prairie" setShortName="SOC" collectorNumber="401" uuid="6bd21c9e-de16-4ee9-ae16-6e82b490109d"/>
+        <card number="1" name="Sacred Peaks" setShortName="SOC" collectorNumber="402" uuid="ee2d6798-b19d-4628-bb57-05663ab4af68"/>
+        <card number="1" name="Scavenger Grounds" setShortName="MSC" collectorNumber="263" uuid="9fbe68ba-ffe5-4fe0-ac0a-0b3221e4f395"/>
+        <card number="1" name="Sephiroth, Fallen Hero" setShortName="FIC" collectorNumber="92" uuid="df919eb8-9eff-4777-9c46-94c795cda918"/>
+        <card number="1" name="Skullclamp" setShortName="MSC" collectorNumber="210" uuid="1d8b007b-3169-4ee3-80c7-781fc096fc7a"/>
+        <card number="1" name="Slayers' Stronghold" setShortName="MKC" collectorNumber="295" uuid="3b2c82ea-6793-407c-ac9f-5fc14d4d09ea"/>
+        <card number="1" name="Sol Ring" setShortName="DRC" collectorNumber="57" uuid="c946b161-0e4f-4c0a-a075-cdcf05504d0b"/>
+        <card number="1" name="Spire of Industry" setShortName="EOC" collectorNumber="183" uuid="35e9ec06-a848-4230-84a2-19cb8034e0f0"/>
+        <card number="1" name="Summoning Materia" setShortName="FIC" collectorNumber="72" uuid="176401fb-f87c-4085-9dac-e6c8a843e32e"/>
+        <card number="1" name="Sunpetal Grove" setShortName="MSC" collectorNumber="272" uuid="e83092ee-4a90-4eac-915f-3fd01b7d9bd0"/>
+        <card number="1" name="Sunscorched Divide" setShortName="SOC" collectorNumber="410" uuid="eae999f9-9c58-4609-8ade-aca0acf07519"/>
+        <card number="1" name="Sword of the Animist" setShortName="CMM" collectorNumber="413" uuid="64401acc-d080-4763-b67a-95164c11c69e"/>
+        <card number="1" name="Tifa, Martial Artist" setShortName="FIC" collectorNumber="6" uuid="31513afc-329c-4913-8fcd-945c39ec82b2"/>
+        <card number="1" name="Trailblazer's Boots" setShortName="OTC" collectorNumber="269" uuid="aa05985b-e2cb-412f-a2ad-b8d723d9f451"/>
+        <card number="1" name="Unfinished Business" setShortName="FIC" collectorNumber="259" uuid="76c9b6c1-05de-4c16-8ebf-ea68aa110a69"/>
+        <card number="1" name="Vandalblast" setShortName="MSC" collectorNumber="168" uuid="71067239-d46f-4201-a91c-6aa4c41fa8b1"/>
+        <card number="1" name="Vanquish the Horde" setShortName="MSC" collectorNumber="146" uuid="f392782b-7464-4617-b421-6b5d0e2880fc"/>
+        <card number="1" name="Vincent, Vengeful Atoner" setShortName="FIC" collectorNumber="64" uuid="9e53d0b2-eeb0-4d54-86e5-723e05aaf6da"/>
+        <card number="1" name="Wooded Ridgeline" setShortName="DMU" collectorNumber="260" uuid="e8e31184-dca4-48b1-be9d-581247c41d99"/>
+        <card number="1" name="Wrecking Ball Arm" setShortName="FIC" collectorNumber="100" uuid="e1f16620-08d6-49bd-9f75-d89ae46bfd1f"/>
+        <card number="1" name="Yuffie, Materia Hunter" setShortName="FIC" collectorNumber="65" uuid="117bb5db-4a1c-4704-b0b5-c67b45ac2f52"/>
+        <card number="1" name="Zack Fair" setShortName="FIN" collectorNumber="45" uuid="f21f9161-5945-40da-8da0-446f6a4a1c23"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Forge Anew"/>
+        <card number="1" name="Fighter Class"/>
+        <card number="1" name="Steelshaper's Gift"/>
+        <card number="1" name="Stoneforge Mystic"/>
+        <card number="1" name="Cloud, Midgar Mercenary"/>
+        <card number="1" name="Akiri, Fearless Voyager"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="FDN" collectorNumber="355" uuid="3e9b53da-4744-429d-97c6-f7ee4d568731"/>
+        <card number="1" name="Swords to Plowshares" setShortName="TDC" collectorNumber="134" uuid="f87cf997-14b5-4a2c-a7d1-34b7de6561a2"/>
+        <card number="1" name="Path to Exile" setShortName="FRC" collectorNumber="30" uuid="22e08a78-55b7-46b0-bd1a-a51548fc1861"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Three Visits" setShortName="MSC" collectorNumber="181" uuid="99bf792f-963e-4509-8d3c-7db129c6a77f"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Unity"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

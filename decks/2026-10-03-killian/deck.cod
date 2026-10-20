@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Oct 5 11:22:40 2026</lastLoadedTimestamp>
+    <deckname>Killian, Ink Duelist</deckname>
+    <format>commander</format>
+    <bannerCard providerId="">Killian, Ink Duelist</bannerCard>
+    <comments>Official artifact from deck assembler.
+Source: decks/2026-10-03-killian/list.txt
+Format: commander
+Commander: Killian, Ink Duelist</comments>
+    <tags>
+        <tag>Commander</tag>
+    </tags>
+    <zone name="main">
+        <card number="1" name="Killian, Ink Duelist"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Apostle's Blessing"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Black Market Connections" setShortName="CLB" collectorNumber="620" uuid="8b28572c-d2ba-4834-8630-3d82202ebb6f"/>
+        <card number="1" name="Bleachbone Verge"/>
+        <card number="1" name="Brightclimb Pathway"/>
+        <card number="1" name="Caves of Koilos" setShortName="FRC" collectorNumber="66" uuid="ca814c7c-9908-4727-b556-3f85bfd653ca"/>
+        <card number="1" name="Chains of Custody"/>
+        <card number="1" name="Chosen by Heliod"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Coercive Impetus"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Demonic Tutor" setShortName="DDC" collectorNumber="49" uuid="c1e5fbc6-d129-4843-96a5-ee4406b2700f"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
+        <card number="1" name="Fabled Passage" setShortName="FRC" collectorNumber="71" uuid="76edd22f-808e-4a7c-b941-13c0f5e30418"/>
+        <card number="1" name="Feather of Flight"/>
+        <card number="1" name="Fell the Profane"/>
+        <card number="1" name="Gift of Immortality"/>
+        <card number="1" name="Glasswing Grace"/>
+        <card number="1" name="Gleaming Splendor"/>
+        <card number="1" name="Godless Shrine" setShortName="TRK" collectorNumber="285" uuid="8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6"/>
+        <card number="1" name="Grisly Transformation"/>
+        <card number="1" name="Hateful Eidolon"/>
+        <card number="1" name="Heliod's Punishment"/>
+        <card number="1" name="Horizon of Progress"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Isolated Chapel" setShortName="FRC" collectorNumber="74" uuid="b3169b9a-f5e3-402e-883a-08274d0c7b12"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Light-Paws, Emperor's Voice"/>
+        <card number="1" name="Lord Skitter's Blessing"/>
+        <card number="1" name="Lotus Petal" setShortName="TPR" collectorNumber="225" uuid="f85ab5f9-508e-45de-8fa1-ce1f16552ffc"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Michiko's Reign of Truth"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Necrosynthesis"/>
+        <card number="1" name="Pearl-Ear, Imperial Advisor"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="4" name="Plains" setShortName="SPM" collectorNumber="189" uuid="1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Razorgrass Ambush"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Retether"/>
+        <card number="1" name="Ripples of Undeath"/>
+        <card number="1" name="Rune of Mortality"/>
+        <card number="1" name="Rune of Sustenance"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Scourgemark"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Shadowy Backstreet"/>
+        <card number="1" name="Shardmage's Rescue"/>
+        <card number="1" name="Shattered Sanctum" setShortName="SOS" collectorNumber="260" uuid="5aa0c810-3b7d-4661-979e-e84fb327742d"/>
+        <card number="1" name="Sheltered by Ghosts"/>
+        <card number="1" name="Sigarda's Aid" setShortName="CMR" collectorNumber="384" uuid="531da950-dc96-4050-94a8-e01b73ddd965"/>
+        <card number="1" name="Silent Clearing"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sol Ring" setShortName="DRC" collectorNumber="57" uuid="c946b161-0e4f-4c0a-a075-cdcf05504d0b"/>
+        <card number="1" name="Songbirds' Blessing"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Sram, Senior Edificer" setShortName="SOC" collectorNumber="176" uuid="8fbd18ce-0ac3-4b52-9cd0-0af7e0244207"/>
+        <card number="4" name="Swamp" setShortName="SPM" collectorNumber="191" uuid="5cb03b18-d74c-4c89-9539-3549d2e8ff5f"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="FDN" collectorNumber="355" uuid="3e9b53da-4744-429d-97c6-f7ee4d568731"/>
+        <card number="1" name="Swords to Plowshares" setShortName="TDC" collectorNumber="134" uuid="f87cf997-14b5-4a2c-a7d1-34b7de6561a2"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
+        <card number="1" name="Tempest Technique"/>
+        <card number="1" name="The Meathook Massacre"/>
+        <card number="1" name="Turbulent Moor"/>
+        <card number="1" name="Twinblade Blessing"/>
+        <card number="1" name="Twisted Embrace"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Valgavoth's Lair"/>
+        <card number="1" name="Vault of Champions"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

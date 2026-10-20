@@ -23,16 +23,26 @@ Open `deck.cod` in Cockatrice. `list.txt` is the working copy.
 
 The agent reads [preferences/profile.md](preferences/profile.md). Edit that file when your tastes change.
 
-Defaults today: mid-to-high Commander (Bracket 3, Bracket 4 on request), 60-card Pauper, synergy-first with proven staples, no stax/chaos, no cEDH.
+Defaults today: competitive Commander (high Bracket 3 / low Bracket 4; full Bracket 4 on request), 60-card Pauper, synergy-first with proven staples, no stax/chaos, no cEDH.
 
 ## Scryfall helper
 
 ```bash
-python scripts/scryfall.py search "is:commander o:token" --max 8
-python scripts/scryfall.py card "Rhys the Redeemed"
-python scripts/scryfall.py validate decks/example/list.txt --format commander --commander "Rhys the Redeemed"
-python scripts/to_cockatrice.py decks/example/
-python scripts/to_cockatrice.py --all
+python3 scripts/scryfall.py search "is:commander o:token" --max 8
+python3 scripts/scryfall.py card "Rhys the Redeemed"
+python3 scripts/scryfall.py validate decks/example/list.txt --format commander --commander "Rhys the Redeemed"
+python3 scripts/to_cockatrice.py decks/example/
+python3 scripts/to_cockatrice.py --all
 ```
 
 `deck.cod` is Cockatrice XML and the official deck file. Printings you pick in Cockatrice are stored in [preferences/printings.json](preferences/printings.json) and reused. Stdlib only. Scryfall calls need network access to `api.scryfall.com`.
+
+## Generate a deck structure
+
+Ask for this by name, and point at a Cockatrice file. It is separate from pitching a new deck.
+
+```bash
+python3 scripts/create_from_cod.py path/to/deck.cod
+```
+
+That creates `decks/<date>-<slug>/` with the session notes, `list.txt`, official `deck.cod`, and a `printings/` folder. Printings already saved for another deck are copied instead of downloaded again.

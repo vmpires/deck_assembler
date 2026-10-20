@@ -27,7 +27,7 @@ Counts should match `deck.cod` / `list.txt`.
 
 ## Import
 
-- **Official:** `deck.cod` in the session folder (Cockatrice). Write it with `python scripts/to_cockatrice.py decks/<session>/`.
+- **Official:** `deck.cod` in the session folder (Cockatrice). Write it with `python3 scripts/to_cockatrice.py decks/<session>/`.
 - Working copy: `list.txt` (Moxfield / Archidekt / validate). Commander: 100 × `1 Card Name` (commander first). Pauper: 60 main, then `Sideboard`, then up to 15.
 
 ```
@@ -36,4 +36,4 @@ Counts should match `deck.cod` / `list.txt`.
 
 ## Validate
 
-Paste `python scripts/scryfall.py validate ...` output here. Then confirm `deck.cod` exists. All errors must be fixed before calling the deck done.
+Paste `python3 scripts/scryfall.py validate ...` output here. Then confirm `deck.cod` exists. All errors must be fixed before calling the deck done.

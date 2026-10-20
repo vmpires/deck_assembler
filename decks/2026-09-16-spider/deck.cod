@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Sep 17 18:45:43 2026</lastLoadedTimestamp>
+    <deckname>Shelob's Web</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Official artifact from deck assembler.
+Source: decks/2026-09-16-spider/list.txt
+Format: commander
+Commander: Shelob, Child of Ungoliant</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Shelob, Child of Ungoliant"/>
+        <card number="1" name="Mirkwood Spider"/>
+        <card number="1" name="Attercop"/>
+        <card number="1" name="Deadly Recluse"/>
+        <card number="1" name="Ruins Recluse"/>
+        <card number="1" name="Broodspinner"/>
+        <card number="1" name="Spider-Bot"/>
+        <card number="1" name="Twitching Doll"/>
+        <card number="1" name="Obelisk Spider"/>
+        <card number="1" name="Twin-Silk Spider"/>
+        <card number="1" name="Sporeweb Weaver"/>
+        <card number="1" name="Treetop Snarespinner"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Kessig Recluse"/>
+        <card number="1" name="Brood Weaver"/>
+        <card number="1" name="Skyfisher Spider"/>
+        <card number="1" name="Ishkanah, Grafwidow"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves" setShortName="CMR" collectorNumber="228" uuid="450744cf-7eba-491b-97b0-ca80c6368bbb"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Delighted Halfling" setShortName="PLTR" collectorNumber="158s" uuid="10829a5d-d8cd-4285-8fd1-da52c61eed0e"/>
+        <card number="1" name="Fanatic of Rhonas"/>
+        <card number="1" name="Nature's Lore" setShortName="MSC" collectorNumber="177" uuid="7afc4a15-5ff8-457a-aa62-803b2d78d912"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Skyshroud Claim" setShortName="EOC" collectorNumber="107" uuid="860c0808-3ec1-4182-bf83-783720a02780"/>
+        <card number="1" name="Sol Ring" setShortName="EOC" collectorNumber="57" uuid="ee6e5a35-fe21-4dee-b0ef-a8f2841511ad"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="Urza's Incubator" setShortName="MH3" collectorNumber="297" uuid="c4589226-6072-409b-b598-ebd87f675a6a"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Blex, Vexing Pest"/>
+        <card number="1" name="Wall Crawl"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Tribute to the World Tree"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Peregrin Took"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="FDN" collectorNumber="258" uuid="41040541-b129-4cf4-9411-09b1d9d32c19"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Gyome, Master Chef"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Night of the Sweets' Revenge"/>
+        <card number="1" name="Ulvenwald Tracker"/>
+        <card number="1" name="Bite Down"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Hunter's Talent"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Toxic Deluge" setShortName="SOC" collectorNumber="120" uuid="a1c2a8da-56b0-4cab-b07b-10cac92c72c5"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Bushwhack"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Blooming Marsh"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Underground Mortuary"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="Tainted Wood" setShortName="DSC" collectorNumber="305" uuid="3da7ab6b-b10a-4786-b1eb-92de7e66690e"/>
+        <card number="1" name="Darkbore Pathway"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Swarmyard"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Cabal Coffers" setShortName="MH2" collectorNumber="301" uuid="e1efb0d3-2c72-46ff-bdc1-1069967365a0"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="8" name="Forest"/>
+        <card number="2" name="Swamp" setShortName="SOS" collectorNumber="269" uuid="1797d5c7-d3fa-4184-85ae-46db14ddf523"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

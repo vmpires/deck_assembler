@@ -11,7 +11,7 @@ Never memorize ban lists. Use Scryfall (`legalities` on a card, or `banned:comma
 - Bracket is social, not legality. Game Changers are listed by Wizards; look up the current list rather than trusting memory. Call out any Game Changer in the list.
 - Official overview: https://magic.wizards.com/en/formats/commander
 
-Default target: Bracket 3. Bracket 4 on request. Bracket 5 out of scope.
+Default target: high Bracket 3 / low Bracket 4 (competitive). Full Bracket 4 on request. Bracket 5 out of scope.
 
 ## Pauper (60-card)
 
@@ -22,5 +22,5 @@ Default target: Bracket 3. Bracket 4 on request. Bracket 5 out of scope.
 
 ## Import blocks
 
-- **Official artifact:** Cockatrice `deck.cod` in the session folder (`python scripts/to_cockatrice.py`).
+- **Official artifact:** Cockatrice `deck.cod` in the session folder (`python3 scripts/to_cockatrice.py`).
 - Working copy: `list.txt` — Commander Moxfield / Archidekt style (`1 Card Name` per line, commander called out). Pauper: maindeck then `Sideboard` then 15 cards.

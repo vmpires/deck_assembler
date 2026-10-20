@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Sep 18 17:53:34 2026</lastLoadedTimestamp>
+    <deckname>Rakdos, Lord of Riots</deckname>
+    <format>commander</format>
+    <bannerCard providerId="">Rakdos, Lord of Riots</bannerCard>
+    <comments>Commander: Rakdos, Lord of Riots. Bracket 4. Set this card as commander when starting the game.</comments>
+    <tags>
+        <tag>Commander</tag>
+    </tags>
+    <zone name="main">
+        <card number="1" name="Bontu's Monument" setShortName="AKH" collectorNumber="225" uuid="e9b00377-9acc-47c4-ae2f-b396d7050a15"/>
+        <card number="1" name="Chandra's Ignition" setShortName="ORI" collectorNumber="137" uuid="7d4c90de-49aa-43ed-a18a-f7f96268e5eb"/>
+        <card number="1" name="Arcane Signet" setShortName="MSC" collectorNumber="193" uuid="09cb4254-b88c-4231-b604-a144a20187a2"/>
+        <card number="1" name="Spear Spewer"/>
+        <card number="1" name="Theater of Horrors" setShortName="RNA" collectorNumber="213" uuid="ad42efd5-79c8-44f9-b3d6-d9058e0cb0f6"/>
+        <card number="1" name="Desolation Twin" setShortName="BFZ" collectorNumber="6" uuid="4d229d8d-5e64-4403-a4ae-a0a186a83935"/>
+        <card number="1" name="Sarkhan's Unsealing" setShortName="M19" collectorNumber="155" uuid="edfa8c8c-8013-46d5-8e80-3d9285fe81c8"/>
+        <card number="1" name="Bloodletter of Aclazotz" setShortName="LCI" collectorNumber="92" uuid="d4f6027a-003a-4f9d-929a-0b6da1fa42c9"/>
+        <card number="1" name="Dread Cacodemon" setShortName="CMA" collectorNumber="55" uuid="25344729-19a5-496f-8e6f-ce7b69afdc68"/>
+        <card number="1" name="Rakdos Signet" setShortName="DIS" collectorNumber="165" uuid="17a3f95c-5a05-46ea-8dc6-b77b59324035"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Sol Ring" setShortName="MSC" collectorNumber="214" uuid="a739dd30-1fce-49db-99fb-15e346f4f2db"/>
+        <card number="1" name="Badlands" setShortName="30A" collectorNumber="273" uuid="c5335e87-57e3-4da6-aba0-619628120f47"/>
+        <card number="1" name="Goblin Bombardment" setShortName="MH2" collectorNumber="279" uuid="e262f55e-9239-4a97-a19e-9b08fb34502e"/>
+        <card number="1" name="Demonic Tutor" setShortName="CMM" collectorNumber="696" uuid="0fbb8533-9404-4af0-a14a-1e136eacdb3a"/>
+        <card number="1" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="1" name="Torment of Hailfire" setShortName="HOU" collectorNumber="77" uuid="f69d77d1-5980-436c-bf48-790939b069aa"/>
+        <card number="1" name="Flame Rift" setShortName="MH2" collectorNumber="278" uuid="e63ed449-d249-4639-85d2-f8fe75496d5c"/>
+        <card number="1" name="Rakdos, Lord of Riots" setShortName="GK2" collectorNumber="52" uuid="133829fd-4ba5-418c-b64e-7b7157ef1a4c"/>
+        <card number="1" name="Grab the Prize" setShortName="DSK" collectorNumber="138" uuid="50895202-f1a1-4840-a11a-55b78b8b5929"/>
+        <card number="1" name="Feed the Swarm" setShortName="FDN" collectorNumber="712" uuid="e66d4541-160c-4137-98e7-0eaa692c7d7a"/>
+        <card number="1" name="Gamble" setShortName="J20" collectorNumber="6" uuid="fa613b38-988c-48b5-99a0-5a11acfc76e4"/>
+        <card number="1" name="Sire of Seven Deaths" setShortName="FDN" collectorNumber="1" uuid="8d8432a7-1c8a-4cfb-947c-ecf9791063eb"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Sign in Blood" setShortName="M13" collectorNumber="110" uuid="64f6600b-36c4-43bd-8c01-cfbca402ecd6"/>
+        <card number="1" name="Dark Ritual" setShortName="MSC" collectorNumber="793" uuid="11e12a84-e7be-4afc-a230-c2e644743fa8"/>
+        <card number="1" name="Lotus Petal" setShortName="P30M" collectorNumber="2" uuid="2a7a63b4-2946-4a25-acd4-742fec197ec0"/>
+        <card number="1" name="Purphoros, God of the Forge" setShortName="THS" collectorNumber="135" uuid="7bf6baf2-d20b-467d-8929-abefcf7dfa99"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="MBC" collectorNumber="77" uuid="03f7e9fc-8e59-45c1-90fc-1d04d929b292"/>
+        <card number="1" name="Lobber Crew"/>
+        <card number="1" name="Nettle Drone"/>
+        <card number="1" name="Lightning Bolt" setShortName="M11" collectorNumber="149" uuid="e768c957-3a1f-42f5-853a-96942f645df5"/>
+        <card number="1" name="Unruly Catapult"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="M15" collectorNumber="248" uuid="fa48b15c-7312-4f3f-b7aa-b2ad98234bf1"/>
+        <card number="1" name="Reanimate" setShortName="FIC" collectorNumber="282" uuid="58838b71-404f-41ad-9a9b-2c7f875bab06"/>
+        <card number="1" name="Jagged Barrens" setShortName="OTJ" collectorNumber="259" uuid="5d809f5b-d965-4cb1-a9f8-2048f8534373"/>
+        <card number="1" name="Seething Song" setShortName="C21" collectorNumber="179" uuid="f493ce26-005c-4ddc-80f0-47bea4fd013a"/>
+        <card number="1" name="Stormfist Crusader"/>
+        <card number="1" name="Vampiric Tutor" setShortName="CMR" collectorNumber="156" uuid="18bd50f2-c3ba-4217-a2d5-bb771e199706"/>
+        <card number="1" name="Creeping Bloodsucker"/>
+        <card number="1" name="Orcish Bowmasters"/>
+        <card number="1" name="Vexing Devil"/>
+        <card number="1" name="Rakdos Cackler"/>
+        <card number="1" name="Mount Doom" setShortName="LTR" collectorNumber="754" uuid="d7852b73-3c05-45a3-b0dc-206c87bef7a3"/>
+        <card number="4" name="Mountain" setShortName="SOS" collectorNumber="270" uuid="6af1f1db-eb91-4297-83f6-9318b87fd220"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Pathrazer of Ulamog"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Neheb, the Eternal"/>
+        <card number="1" name="Florian, Voldaren Scion"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Cryptolith Fragment"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Boltwave"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Sanctum of Stone Fangs"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Arena of Glory"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Sunscorched Desert"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Blightstep Pathway"/>
+        <card number="1" name="Blazemire Verge"/>
+        <card number="1" name="Raucous Theater"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="3" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

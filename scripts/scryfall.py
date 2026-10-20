@@ -100,6 +100,12 @@ class Scryfall:
         url = f"{API}/cards/named?{urllib.parse.urlencode({key: name})}"
         return self.request(url)
 
+    def by_set_number(self, code: str, number: str) -> dict[str, Any]:
+        set_code = urllib.parse.quote(code.strip().lower())
+        collector_number = urllib.parse.quote(number.strip())
+        url = f"{API}/cards/{set_code}/{collector_number}"
+        return self.request(url)
+
     def collection(self, names: list[str]) -> tuple[list[dict[str, Any]], list[str]]:
         found: list[dict[str, Any]] = []
         missing: list[str] = []
@@ -115,6 +121,27 @@ class Scryfall:
             for item in payload.get("not_found") or []:
                 missing.append(item.get("name") or "")
         missing = [m for m in missing if m]
+        # Collection identifiers accept either face of a split card, not the
+        # combined "Left // Right" name Scryfall itself returns.
+        split_missing = [name for name in missing if " // " in name]
+        if split_missing:
+            faces = [name.split(" // ", 1)[0] for name in split_missing]
+            face_payload = self.request(
+                f"{API}/cards/collection",
+                method="POST",
+                body={"identifiers": [{"name": face} for face in faces]},
+            )
+            found.extend(face_payload.get("data") or [])
+            still_missing = {
+                item.get("name") or ""
+                for item in (face_payload.get("not_found") or [])
+            }
+            resolved = {
+                name
+                for name, face in zip(split_missing, faces)
+                if face not in still_missing
+            }
+            missing = [name for name in missing if name not in resolved]
         return found, missing
 
 
@@ -214,7 +241,8 @@ def get_card(lookup: dict[str, dict[str, Any]], name: str) -> dict[str, Any] | N
 def parse_commander_flag(raw: str | None) -> list[str]:
     if not raw:
         return []
-    parts = re.split(r"\s*(?:/|&|//| and )\s*", raw.strip(), maxsplit=1)
+    # "and" is part of card names (Goro-Goro and Satoru). Partners use " / " or " & ".
+    parts = re.split(r"\s*(?://|/|&)\s*", raw.strip(), maxsplit=1)
     return [p for p in (part.strip() for part in parts) if p]
 
 

@@ -1,47 +1,2507 @@
 {
+  "Aboleth Spawn": {
+    "setShortName": "CLB",
+    "collectorNumber": "662",
+    "uuid": "51889b3f-082a-40e9-8be7-11f8c1a7a9a8"
+  },
+  "Absorb": {
+    "setShortName": "DMR",
+    "collectorNumber": "186",
+    "uuid": "21892cbc-1af2-4ea1-8907-cec514b53004"
+  },
+  "Abundant Growth": {
+    "setShortName": "AVR",
+    "collectorNumber": "167",
+    "uuid": "afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7"
+  },
+  "Abyssal Gatekeeper": {
+    "setShortName": "DVD",
+    "collectorNumber": "31",
+    "uuid": "6d2a66f0-1afe-41e6-a597-ec2e95685191"
+  },
+  "Academy Manufactor": {
+    "setShortName": "OTC",
+    "collectorNumber": "251",
+    "uuid": "76480f4d-ad6d-4ed6-82c6-fa12abc22557"
+  },
+  "Adarkar Wastes": {
+    "setShortName": "EOC",
+    "collectorNumber": "147",
+    "uuid": "42e0aa15-639a-4e88-9bd8-ce5e7c7d7649"
+  },
+  "Aerith, Last Ancient": {
+    "setShortName": "FIC",
+    "collectorNumber": "76",
+    "uuid": "d041a51c-9a28-4b32-9da3-0f06807959f1"
+  },
+  "Ahriman": {
+    "setShortName": "FIN",
+    "collectorNumber": "87",
+    "uuid": "162a415c-5465-497e-8f4e-c6f09681641d"
+  },
+  "Akiri, Fearless Voyager": {
+    "setShortName": "CMM",
+    "collectorNumber": "335",
+    "uuid": "fa135775-abcd-4a21-abb7-3aeb5a39df28"
+  },
+  "Alchemist's Talent": {
+    "setShortName": "BLC",
+    "collectorNumber": "22",
+    "uuid": "2fb8dace-c604-40fc-bbd4-5add5deb041a"
+  },
+  "All That Glitters": {
+    "setShortName": "CMM",
+    "collectorNumber": "9",
+    "uuid": "5fc0b82a-f943-4330-b9e7-bb4527354bfd"
+  },
+  "Alseid of Life's Bounty": {
+    "setShortName": "THB",
+    "collectorNumber": "1",
+    "uuid": "36c8c075-9597-412e-9fc4-9d73b4405d12"
+  },
+  "Altar of the Wretched": {
+    "setShortName": "LCC",
+    "collectorNumber": "10",
+    "uuid": "e2c812bb-19f8-4a22-bda9-f2a6233cf700"
+  },
+  "An Offer You Can't Refuse": {
+    "setShortName": "FDN",
+    "collectorNumber": "160",
+    "uuid": "a829747f-cf9b-4d81-ba66-9f0630ed4565"
+  },
+  "Ancient Cellarspawn": {
+    "setShortName": "DSC",
+    "collectorNumber": "16",
+    "uuid": "27e2477d-4f04-408d-8c39-8a886ac81f44"
+  },
+  "Ancient Copper Dragon": {
+    "setShortName": "CLB",
+    "collectorNumber": "161",
+    "uuid": "3836dddd-a7e4-499f-ad49-ce298aa65720"
+  },
+  "Ancient Greenwarden": {
+    "setShortName": "OTC",
+    "collectorNumber": "186",
+    "uuid": "12a0bf5c-a165-48f1-9a57-3a7cc9f3b0f9"
+  },
+  "Anguished Unmaking": {
+    "setShortName": "SOC",
+    "collectorNumber": "293",
+    "uuid": "407183c6-c962-4f8c-867e-abc309b6c573"
+  },
+  "Appendage Amalgam": {
+    "setShortName": "DSK",
+    "collectorNumber": "83",
+    "uuid": "d16b3cf3-7b85-4153-b25a-e6b5fce725cf"
+  },
+  "Aqueous Form": {
+    "setShortName": "CMR",
+    "collectorNumber": "56",
+    "uuid": "c859f7cb-ac12-490e-b769-6f019791f2a5"
+  },
+  "Arcane Sanctum": {
+    "setShortName": "DSC",
+    "collectorNumber": "259",
+    "uuid": "c75eeb97-3249-4762-84b0-387f27fb255f"
+  },
+  "Arcane Signet": {
+    "setShortName": "P30M",
+    "collectorNumber": "1F",
+    "uuid": "e96d398f-7393-4b8e-9972-2d7c394d23ad"
+  },
+  "Archetype of Endurance": {
+    "setShortName": "BNG",
+    "collectorNumber": "116",
+    "uuid": "3145ca68-7a9d-4161-9456-518591251b56"
+  },
+  "Arid Mesa": {
+    "setShortName": "MH2",
+    "collectorNumber": "244",
+    "uuid": "25ac5405-df7b-4097-914a-022cb18e20d4"
+  },
+  "Armory Automaton": {
+    "setShortName": "C16",
+    "collectorNumber": "51",
+    "uuid": "cc0be4ff-c346-4c22-8357-9a2383a53469"
+  },
+  "Asceticism": {
+    "setShortName": "SOM",
+    "collectorNumber": "110",
+    "uuid": "ec2b56b0-126c-411b-8c43-b690fc8c194b"
+  },
+  "Ash Barrens": {
+    "setShortName": "TMC",
+    "collectorNumber": "60",
+    "uuid": "e8510205-4baa-4f1c-bf64-5d931e2ddf48"
+  },
+  "Atsushi, the Blazing Sky": {
+    "setShortName": "SOC",
+    "collectorNumber": "236",
+    "uuid": "06658540-0104-428f-91b1-40552826e781"
+  },
+  "Austere Command": {
+    "setShortName": "MSC",
+    "collectorNumber": "121",
+    "uuid": "a8bc7912-e201-468a-b251-140205cb741c"
+  },
+  "Avalanche of Sector 7": {
+    "setShortName": "FIC",
+    "collectorNumber": "53",
+    "uuid": "20a87dbc-5deb-42ae-9097-806e9a27466f"
+  },
+  "Avenger of Zendikar": {
+    "setShortName": "ECC",
+    "collectorNumber": "98",
+    "uuid": "c6f1e60f-a195-4590-80b0-86767de6c423"
+  },
+  "Azusa, Lost but Seeking": {
+    "setShortName": "CMM",
+    "collectorNumber": "274",
+    "uuid": "2fe97fbe-a6d6-4e96-8c26-f81bcdf579a1"
+  },
+  "Badlands": {
+    "setShortName": "OLGC",
+    "collectorNumber": "2016NA",
+    "uuid": "644aba21-1fa7-4483-b9bf-56c5fe4d8975"
+  },
+  "Baleful Strix": {
+    "setShortName": "OTC",
+    "collectorNumber": "215",
+    "uuid": "be8439e6-f779-49f0-806a-b04995697a6a"
+  },
+  "Barret Wallace": {
+    "setShortName": "FIN",
+    "collectorNumber": "129",
+    "uuid": "1a504dff-5857-4a61-ab99-616d5df7cf5a"
+  },
+  "Barret, Avalanche Leader": {
+    "setShortName": "FIC",
+    "collectorNumber": "79",
+    "uuid": "2e37fd36-84f0-4869-bfae-da4b97c9725d"
+  },
+  "Bastion Protector": {
+    "setShortName": "MSC",
+    "collectorNumber": "122",
+    "uuid": "1582488a-ad15-487e-9271-6d9330b46fb4"
+  },
+  "Battle Mastery": {
+    "setShortName": "BBD",
+    "collectorNumber": "89",
+    "uuid": "5266595d-5320-4dea-8e4a-dd6c1a032871"
+  },
+  "Battlefield Forge": {
+    "setShortName": "FRC",
+    "collectorNumber": "65",
+    "uuid": "ef7d3676-b1db-4329-9201-18f8a6c54ea6"
+  },
+  "Bear Umbra": {
+    "setShortName": "NEC",
+    "collectorNumber": "113",
+    "uuid": "5a195fb1-f2e9-4e05-8a04-c335e1afbef6"
+  },
+  "Beast Within": {
+    "setShortName": "MSC",
+    "collectorNumber": "169",
+    "uuid": "400b43aa-c1d2-4435-b863-061f43889422"
+  },
+  "Behemoth Sledge": {
+    "setShortName": "AFC",
+    "collectorNumber": "180",
+    "uuid": "179461b8-0a6b-48c5-9d1f-db8bcfecc6f9"
+  },
+  "Big Score": {
+    "setShortName": "MSC",
+    "collectorNumber": "802",
+    "uuid": "3383a939-4ab3-4546-9995-6c65cd3f4441"
+  },
+  "Birds of Paradise": {
+    "setShortName": "MSC",
+    "collectorNumber": "170",
+    "uuid": "492c2f9a-51e7-4e0f-9899-23bf43ea988b"
+  },
+  "Bitter Triumph": {
+    "setShortName": "TDC",
+    "collectorNumber": "173",
+    "uuid": "c5333556-eea2-41ae-833e-007b9d540700"
+  },
+  "Black Market Connections": {
+    "setShortName": "CLB",
+    "collectorNumber": "620",
+    "uuid": "8b28572c-d2ba-4834-8630-3d82202ebb6f"
+  },
+  "Blackcleave Cliffs": {
+    "setShortName": "DSC",
+    "collectorNumber": "263",
+    "uuid": "f75715ce-744f-409c-aeb1-e66eb9186a74"
+  },
+  "Blasphemous Act": {
+    "setShortName": "MSC",
+    "collectorNumber": "163",
+    "uuid": "7d4b1d44-126e-4987-9a9f-f0f9627a09cb"
+  },
+  "Blazemire Verge": {
+    "setShortName": "DSK",
+    "collectorNumber": "256",
+    "uuid": "d151c8e2-d715-470d-868a-f45191db9fa0"
+  },
+  "Blightstep Pathway": {
+    "setShortName": "KHM",
+    "collectorNumber": "252",
+    "uuid": "0ce39a19-f51d-4a35-ae80-5b82eb15fcff"
+  },
+  "Blistergrub": {
+    "setShortName": "DDR",
+    "collectorNumber": "40",
+    "uuid": "517ec1ba-00cd-4883-b298-521dc2d03f81"
+  },
+  "Blood Crypt": {
+    "setShortName": "TRK",
+    "collectorNumber": "278",
+    "uuid": "1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316"
+  },
+  "Blood Money": {
+    "setShortName": "LCC",
+    "collectorNumber": "183",
+    "uuid": "bbbc5c9d-110a-44cd-a2c9-8bad7dac4b5f"
+  },
+  "Bloodcurdler": {
+    "setShortName": "ODY",
+    "collectorNumber": "116",
+    "uuid": "dd1452ff-cec6-4df3-8bdc-bfb7869553a1"
+  },
+  "Bloodletter of Aclazotz": {
+    "setShortName": "LCI",
+    "collectorNumber": "92",
+    "uuid": "d4f6027a-003a-4f9d-929a-0b6da1fa42c9"
+  },
+  "Bloodstained Mire": {
+    "setShortName": "MH3",
+    "collectorNumber": "216",
+    "uuid": "579743fe-f71e-4cb2-8629-d6b02ed1591d"
+  },
+  "Bojuka Bog": {
+    "setShortName": "SOC",
+    "collectorNumber": "363",
+    "uuid": "55b5b094-9d2d-4d96-b90c-78fecdae725a"
+  },
+  "Bonders' Enclave": {
+    "setShortName": "OTC",
+    "collectorNumber": "274",
+    "uuid": "d174f42c-dcf2-4da9-812b-7e1d0991d466"
+  },
+  "Boneshard Slasher": {
+    "setShortName": "TOR",
+    "collectorNumber": "50",
+    "uuid": "27201370-32cc-4b90-890d-8c3f5362ad70"
+  },
+  "Bontu's Monument": {
+    "setShortName": "AKH",
+    "collectorNumber": "225",
+    "uuid": "e9b00377-9acc-47c4-ae2f-b396d7050a15"
+  },
+  "Boros Charm": {
+    "setShortName": "FDN",
+    "collectorNumber": "721",
+    "uuid": "e0d8c9f6-cbbd-4694-b100-01cfb81036cc"
+  },
+  "Boseiju, Who Endures": {
+    "setShortName": "NEO",
+    "collectorNumber": "266",
+    "uuid": "2135ac5a-187b-4dc9-8f82-34e8d1603416"
+  },
+  "Boseiju, Who Shelters All": {
+    "setShortName": "CHK",
+    "collectorNumber": "273",
+    "uuid": "0180d9a8-992c-4d55-8ac4-33a587786993"
+  },
+  "Boundless Realms": {
+    "setShortName": "M13",
+    "collectorNumber": "162",
+    "uuid": "e3c3cf16-ba81-4558-b1a6-79942a02f629"
+  },
+  "Bountiful Promenade": {
+    "setShortName": "MSC",
+    "collectorNumber": "226",
+    "uuid": "f0b11ba3-68ba-4067-af40-2a55e31b395e"
+  },
+  "Brainstorm": {
+    "setShortName": "DSC",
+    "collectorNumber": "113",
+    "uuid": "8beb987c-1b67-4a4e-ae71-58547afad2a0"
+  },
+  "Brainsurge": {
+    "setShortName": "FRC",
+    "collectorNumber": "40",
+    "uuid": "2dc20172-4cf0-4ada-a4f3-4ef951cb8207"
+  },
+  "Brazen Borrower // Petty Theft": {
+    "setShortName": "SOC",
+    "collectorNumber": "190",
+    "uuid": "25d309d6-9e56-441e-bd29-5c903d5221bf"
+  },
+  "Broken Bond": {
+    "setShortName": "DOM",
+    "collectorNumber": "157",
+    "uuid": "b4dcb59f-2a47-4461-9831-204ad15696b5"
+  },
+  "Bronze Guardian": {
+    "setShortName": "C21",
+    "collectorNumber": "13",
+    "uuid": "8cd5cc66-2ade-4142-9269-7d9905b029e5"
+  },
+  "Brushland": {
+    "setShortName": "BRO",
+    "collectorNumber": "259",
+    "uuid": "18d236ce-3b78-403a-b5f9-4fb44123d85b"
+  },
+  "Bruvac the Grandiloquent": {
+    "setShortName": "RVR",
+    "collectorNumber": "35",
+    "uuid": "2ce2d73f-3f64-44db-a2bc-a8f4a37dc487"
+  },
+  "Bugenhagen, Wise Elder": {
+    "setShortName": "FIC",
+    "collectorNumber": "66",
+    "uuid": "99155fae-507a-4eab-918a-bdee021e2262"
+  },
+  "Bump in the Night": {
+    "setShortName": "ISD",
+    "collectorNumber": "92",
+    "uuid": "5c3ec389-a267-484f-994d-4a29ef494eb1"
+  },
+  "Burgeoning": {
+    "setShortName": "C16",
+    "collectorNumber": "143",
+    "uuid": "6da045f8-6278-4c84-9d39-025adf0789c1"
+  },
+  "Cabal Coffers": {
+    "setShortName": "MH2",
+    "collectorNumber": "301",
+    "uuid": "e1efb0d3-2c72-46ff-bdc1-1069967365a0"
+  },
+  "Cait Sith, Fortune Teller": {
+    "setShortName": "FIC",
+    "collectorNumber": "54",
+    "uuid": "3e0f6c53-6bbf-4d4c-bbbf-4dab22297527"
+  },
+  "Canopy Vista": {
+    "setShortName": "MSC",
+    "collectorNumber": "227",
+    "uuid": "369e6485-fbc7-45f9-ac9d-2e26dd94f2d5"
+  },
+  "Captain Lannery Storm": {
+    "setShortName": "OTC",
+    "collectorNumber": "158",
+    "uuid": "60a457e2-6cc7-47f0-9a24-df5459395358"
+  },
+  "Captain N'ghathrod": {
+    "setShortName": "CLB",
+    "collectorNumber": "646",
+    "uuid": "55c02dc8-0743-400c-b334-ca029caf0463"
+  },
+  "Carrion Locust": {
+    "setShortName": "BRO",
+    "collectorNumber": "87",
+    "uuid": "6759acb8-82c0-479f-86f3-f22ca7a2006c"
+  },
+  "Cast Down": {
+    "setShortName": "CLB",
+    "collectorNumber": "119",
+    "uuid": "aba79021-39af-4e74-beb5-f2f508c865b2"
+  },
+  "Cavern of Souls": {
+    "setShortName": "LCI",
+    "collectorNumber": "269",
+    "uuid": "3aad15a2-8a1b-4460-9b06-e85863081878"
+  },
+  "Caves of Koilos": {
+    "setShortName": "FRC",
+    "collectorNumber": "66",
+    "uuid": "ca814c7c-9908-4727-b556-3f85bfd653ca"
+  },
+  "Chain Lightning": {
+    "setShortName": "JMP",
+    "collectorNumber": "302",
+    "uuid": "b7cef88c-0ad6-47c4-b6c8-f989586aa635"
+  },
+  "Champion's Helm": {
+    "setShortName": "CMM",
+    "collectorNumber": "375",
+    "uuid": "c6548a30-577a-47e7-aa6e-8f6db1f7b78e"
+  },
+  "Chandra's Ignition": {
+    "setShortName": "ORI",
+    "collectorNumber": "137",
+    "uuid": "7d4c90de-49aa-43ed-a18a-f7f96268e5eb"
+  },
+  "Chaos Warp": {
+    "setShortName": "MSC",
+    "collectorNumber": "359",
+    "uuid": "64342374-ef4e-4f27-a24b-12ea1d5beb67"
+  },
+  "Charming Scoundrel": {
+    "setShortName": "WOE",
+    "collectorNumber": "124",
+    "uuid": "c8090bcf-e17a-4110-a518-77ccd045b18f"
+  },
+  "Chasm Skulker": {
+    "setShortName": "MOC",
+    "collectorNumber": "218",
+    "uuid": "794e01e7-430c-43cf-ba2b-1028cd088148"
+  },
+  "Choked Estuary": {
+    "setShortName": "MSC",
+    "collectorNumber": "229",
+    "uuid": "0c37e84e-e7e0-4dfe-bf17-daeb2e434861"
+  },
+  "Chrome Mox": {
+    "setShortName": "MRD",
+    "collectorNumber": "152",
+    "uuid": "6a058e68-70af-4a64-859c-c881e5578368"
+  },
+  "Cid, Freeflier Pilot": {
+    "setShortName": "FIC",
+    "collectorNumber": "13",
+    "uuid": "afa9e3e6-a633-46ad-b52a-48574b2f3d07"
+  },
+  "Cinder Glade": {
+    "setShortName": "MSC",
+    "collectorNumber": "230",
+    "uuid": "ec93087a-5728-40e8-8625-a1d175d5252c"
+  },
+  "Claim the Kingdom": {
+    "setShortName": "MSH",
+    "collectorNumber": "163",
+    "uuid": "cf13bfb1-5b44-4363-8de9-ece234233870"
+  },
+  "Clammy Prowler": {
+    "setShortName": "DSK",
+    "collectorNumber": "45",
+    "uuid": "237f0b93-f12e-4c5f-a3d7-83e8f20f8493"
+  },
+  "Cleansing Nova": {
+    "setShortName": "MSC",
+    "collectorNumber": "124",
+    "uuid": "670e4457-927e-42ed-a36f-28b60c2f7566"
+  },
+  "Clearwater Pathway": {
+    "setShortName": "ZNR",
+    "collectorNumber": "260",
+    "uuid": "b4b99ebb-0d54-4fe5-a495-979aaa564aa8"
+  },
+  "Clever Concealment": {
+    "setShortName": "MSC",
+    "collectorNumber": "125",
+    "uuid": "41d45a8a-ea1d-4fbc-86d2-5d6340f3b639"
+  },
+  "Clifftop Retreat": {
+    "setShortName": "FRC",
+    "collectorNumber": "67",
+    "uuid": "cd112d5c-102f-45a6-b26c-f80cc97d4df2"
+  },
+  "Cloud's Limit Break": {
+    "setShortName": "FIC",
+    "collectorNumber": "14",
+    "uuid": "1eb10082-4f0a-41f9-9a70-0d3c7ead249f"
+  },
+  "Cloud, Ex-SOLDIER": {
+    "setShortName": "FIC",
+    "collectorNumber": "2",
+    "uuid": "07b4e4f8-6a31-4533-be51-668ce3ddc84f"
+  },
+  "Cloud, Midgar Mercenary": {
+    "setShortName": "FIN",
+    "collectorNumber": "10",
+    "uuid": "2cf7e8a3-fad7-413d-b17c-7519a9cf5fb5"
+  },
+  "Coin of Mastery": {
+    "setShortName": "TMC",
+    "collectorNumber": "38",
+    "uuid": "ca053574-2ac9-4814-955d-87a97e0aca7e"
+  },
+  "Colossus Hammer": {
+    "setShortName": "AFC",
+    "collectorNumber": "202",
+    "uuid": "897a134e-7e61-4fe1-bbae-23ef1fe5c0cf"
+  },
+  "Comet Crawler": {
+    "setShortName": "EOE",
+    "collectorNumber": "92",
+    "uuid": "becca990-ab2e-4aa4-be7d-293ec727cb08"
+  },
+  "Command Beacon": {
+    "setShortName": "TDC",
+    "collectorNumber": "352",
+    "uuid": "435e9678-9ff3-4e5d-8061-3f806e1c2ed2"
+  },
+  "Command Tower": {
+    "setShortName": "ELD",
+    "collectorNumber": "333",
+    "uuid": "ec1f1041-f667-4b73-b1f2-e5bcae84095e"
+  },
+  "Conformer Shuriken": {
+    "setShortName": "FIC",
+    "collectorNumber": "98",
+    "uuid": "019615fa-4bec-41e8-9c4c-2c6f91bdefb2"
+  },
+  "Conqueror's Flail": {
+    "setShortName": "2X2",
+    "collectorNumber": "302",
+    "uuid": "d5f5399a-26c6-4ecd-9715-f6440f6958f1"
+  },
+  "Consider": {
+    "setShortName": "TLE",
+    "collectorNumber": "157",
+    "uuid": "4f28e706-c488-4525-ad8a-977a5fa77f80"
+  },
+  "Constant Mists": {
+    "setShortName": "SLD",
+    "collectorNumber": "2026",
+    "uuid": "69ffe198-2696-43ea-b63b-9329f751d9ad"
+  },
+  "Consuming Aberration": {
+    "setShortName": "TDC",
+    "collectorNumber": "283",
+    "uuid": "497fba45-201d-4688-b420-d093beb4e8f4"
+  },
+  "Copperline Gorge": {
+    "setShortName": "ONE",
+    "collectorNumber": "249",
+    "uuid": "78b0f36b-7d8c-4e77-adc2-a4dad93a81d5"
+  },
+  "Counterspell": {
+    "setShortName": "DSC",
+    "collectorNumber": "114",
+    "uuid": "4f616706-ec97-4923-bb1e-11a69fbaa1f8"
+  },
+  "Court of Cunning": {
+    "setShortName": "CMR",
+    "collectorNumber": "63",
+    "uuid": "2f585f52-7b07-4453-b543-9654d314aa36"
+  },
+  "Cover of Darkness": {
+    "setShortName": "ONS",
+    "collectorNumber": "133",
+    "uuid": "0d6d7d88-d82b-40f4-bf57-ec5d7c480689"
+  },
+  "Creeping Tar Pit": {
+    "setShortName": "CLB",
+    "collectorNumber": "888",
+    "uuid": "1f60e172-fcdc-4699-a212-815201375d47"
+  },
+  "Crime Novelist": {
+    "setShortName": "MKM",
+    "collectorNumber": "121",
+    "uuid": "14a5cd7c-b0b1-4ffa-a806-bb0e73baffad"
+  },
+  "Crop Rotation": {
+    "setShortName": "C20",
+    "collectorNumber": "169",
+    "uuid": "4a61749d-a2e5-4da4-96db-e49cbac05d73"
+  },
+  "Crucible of Worlds": {
+    "setShortName": "2X2",
+    "collectorNumber": "303",
+    "uuid": "7f4893ef-f983-418b-b7a4-5f073c844545"
+  },
+  "Cultivate": {
+    "setShortName": "MSC",
+    "collectorNumber": "172",
+    "uuid": "e60deb92-f7dd-4f4e-9036-e47dd586f985"
+  },
+  "Damnation": {
+    "setShortName": "2X2",
+    "collectorNumber": "73",
+    "uuid": "d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f"
+  },
+  "Dark Ritual": {
+    "setShortName": "MSC",
+    "collectorNumber": "793",
+    "uuid": "11e12a84-e7be-4afc-a230-c2e644743fa8"
+  },
+  "Darksteel Plate": {
+    "setShortName": "2X2",
+    "collectorNumber": "304",
+    "uuid": "3f99fb1e-99a6-4c83-98eb-7bff23996a7f"
+  },
   "Darkwater Catacombs": {
     "setShortName": "PIP",
     "collectorNumber": "260",
     "uuid": "15b3d4b7-972f-447f-a512-f40ceeba5d9c"
+  },
+  "Dazzling Sphinx": {
+    "setShortName": "OTC",
+    "collectorNumber": "93",
+    "uuid": "2ddac591-825b-4304-858c-9dc9b311805b"
+  },
+  "Deadly Dispute": {
+    "setShortName": "MSC",
+    "collectorNumber": "794",
+    "uuid": "d86fa72c-25c1-43ef-9cb0-fe76f7568ed3"
+  },
+  "Deadly Rollick": {
+    "setShortName": "C20",
+    "collectorNumber": "42",
+    "uuid": "c61fa2c0-63c0-4dc2-9f17-5a00530e3348"
+  },
+  "Decimate": {
+    "setShortName": "OTC",
+    "collectorNumber": "220",
+    "uuid": "cf0e68bc-8de8-4ff8-a39a-8da95f71d843"
+  },
+  "Defiler of Dreams": {
+    "setShortName": "DMU",
+    "collectorNumber": "46",
+    "uuid": "881cc4a3-252b-4155-a34f-63d4b4f44442"
+  },
+  "Deflecting Swat": {
+    "setShortName": "C20",
+    "collectorNumber": "50",
+    "uuid": "84f035e1-6c89-457b-b05f-85680a50ed91"
+  },
+  "Delighted Halfling": {
+    "setShortName": "PLTR",
+    "collectorNumber": "158s",
+    "uuid": "10829a5d-d8cd-4285-8fd1-da52c61eed0e"
+  },
+  "Demonic Tutor": {
+    "setShortName": "DDC",
+    "collectorNumber": "49",
+    "uuid": "c1e5fbc6-d129-4843-96a5-ee4406b2700f"
+  },
+  "Deserted Beach": {
+    "setShortName": "FRA",
+    "collectorNumber": "176",
+    "uuid": "56dae4c4-3e71-4a32-979b-4e26d9c9e96c"
+  },
+  "Desolation Twin": {
+    "setShortName": "BFZ",
+    "collectorNumber": "6",
+    "uuid": "4d229d8d-5e64-4403-a4ae-a0a186a83935"
+  },
+  "Destiny Spinner": {
+    "setShortName": "CMM",
+    "collectorNumber": "890",
+    "uuid": "2cc3804b-3304-4add-81b4-0482bfed8074"
+  },
+  "Diamond Pick-Axe": {
+    "setShortName": "LCI",
+    "collectorNumber": "143",
+    "uuid": "4ae30fa7-3d1d-417f-80d7-a668236cb2c1"
+  },
+  "Dimir Keyrune": {
+    "setShortName": "CLB",
+    "collectorNumber": "856",
+    "uuid": "69d1dd6c-21d3-4fe8-af1b-7088dcceef08"
+  },
+  "Dimir Signet": {
+    "setShortName": "FRC",
+    "collectorNumber": "56",
+    "uuid": "0862060d-3198-4eeb-af8c-efeb27f42a99"
+  },
+  "Disciple of the Vault": {
+    "setShortName": "MRD",
+    "collectorNumber": "62",
+    "uuid": "644359dc-3c4c-4291-876d-7390dc466877"
+  },
+  "Dispatch": {
+    "setShortName": "MSC",
+    "collectorNumber": "130",
+    "uuid": "99d30a21-b003-4a17-a4c5-97811f230896"
+  },
+  "Dori, Bearer of Friends": {
+    "setShortName": "HOB",
+    "collectorNumber": "94",
+    "uuid": "d2f60ad0-c887-4585-85f8-afcf72fb80d0"
+  },
+  "Dovin's Veto": {
+    "setShortName": "WAR",
+    "collectorNumber": "193",
+    "uuid": "5d6b5054-2224-4f68-9d82-3ed17c5dacc4"
+  },
+  "Dragonlord Dromoka": {
+    "setShortName": "DTK",
+    "collectorNumber": "217",
+    "uuid": "908042f3-0d03-4edf-816a-ec846a1e315f"
+  },
+  "Dragonskull Summit": {
+    "setShortName": "MSC",
+    "collectorNumber": "238",
+    "uuid": "d20e433a-eb62-4301-bc20-bfe27468b033"
+  },
+  "Dread Cacodemon": {
+    "setShortName": "CMA",
+    "collectorNumber": "55",
+    "uuid": "25344729-19a5-496f-8e6f-ce7b69afdc68"
+  },
+  "Dream Trawler": {
+    "setShortName": "THB",
+    "collectorNumber": "214",
+    "uuid": "7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f"
+  },
+  "Drossforge Bridge": {
+    "setShortName": "MH2",
+    "collectorNumber": "246",
+    "uuid": "5b46b8d8-723a-4752-b97d-29ef83bd294c"
+  },
+  "Drown in the Loch": {
+    "setShortName": "CLB",
+    "collectorNumber": "842",
+    "uuid": "eb7b9762-740b-4c1c-a411-20dbf023aea5"
+  },
+  "Drowned Catacomb": {
+    "setShortName": "FRC",
+    "collectorNumber": "69",
+    "uuid": "4acb0f92-74be-40e8-b70e-61c4aaaeb47b"
+  },
+  "Eldrazi Conscription": {
+    "setShortName": "SOC",
+    "collectorNumber": "131",
+    "uuid": "33965c48-a7ce-4a04-8251-8eeb2d908c0b"
+  },
+  "Elemental Bond": {
+    "setShortName": "TDC",
+    "collectorNumber": "254",
+    "uuid": "8efbc925-54ac-4dda-82af-9091b1cf2fda"
+  },
+  "Elena, Turk Recruit": {
+    "setShortName": "FIC",
+    "collectorNumber": "18",
+    "uuid": "d16553a3-65c3-4dec-af92-123d1e5dce10"
+  },
+  "Elvish Piper": {
+    "setShortName": "M10",
+    "collectorNumber": "177",
+    "uuid": "5666cb39-5fea-4eaa-a6da-1b2ffc5a3811"
+  },
+  "Empyrean Eagle": {
+    "setShortName": "FDN",
+    "collectorNumber": "239",
+    "uuid": "577e99a7-4a55-4314-8f08-2ae0c33b85c7"
+  },
+  "Enigma Sphinx": {
+    "setShortName": "C18",
+    "collectorNumber": "178",
+    "uuid": "40b62ed0-356c-4552-b76d-48ff54410e70"
+  },
+  "Ethereal Armor": {
+    "setShortName": "DSK",
+    "collectorNumber": "7",
+    "uuid": "fd0e8a82-0201-483e-a976-5f29764b35a4"
+  },
+  "Evolutionary Leap": {
+    "setShortName": "NCC",
+    "collectorNumber": "288",
+    "uuid": "4d007d3c-3356-4394-9bcd-2b2c1031c20b"
+  },
+  "Evolving Wilds": {
+    "setShortName": "MSC",
+    "collectorNumber": "240",
+    "uuid": "c0318a48-30e4-4ef7-be3d-5e561c5ce428"
+  },
+  "Exotic Orchard": {
+    "setShortName": "CON_",
+    "collectorNumber": "142",
+    "uuid": "6aae6480-4e71-4d94-a648-f80d3849d792"
+  },
+  "Expedition Map": {
+    "setShortName": "FDN",
+    "collectorNumber": "724",
+    "uuid": "08e66835-c228-48fa-bcaa-eb96edbd4f5a"
+  },
+  "Exploration": {
+    "setShortName": "CNS",
+    "collectorNumber": "164",
+    "uuid": "2b20d3e1-62ef-44db-8109-a33d4fa3e7f1"
+  },
+  "Explorer's Scope": {
+    "setShortName": "CMM",
+    "collectorNumber": "380",
+    "uuid": "be120499-fe2f-4c21-982c-566d0dbbddff"
+  },
+  "Extract from Darkness": {
+    "setShortName": "2X2",
+    "collectorNumber": "210",
+    "uuid": "e0769e3f-d27d-4aff-8da0-f03c10b8650b"
+  },
+  "Fabled Passage": {
+    "setShortName": "FRC",
+    "collectorNumber": "71",
+    "uuid": "76edd22f-808e-4a7c-b941-13c0f5e30418"
+  },
+  "Farseek": {
+    "setShortName": "MSC",
+    "collectorNumber": "173",
+    "uuid": "c1aac0f5-1d01-4673-b8d3-878d9a1d423c"
+  },
+  "Fatal Push": {
+    "setShortName": "2XM",
+    "collectorNumber": "93",
+    "uuid": "6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7"
+  },
+  "Feed the Swarm": {
+    "setShortName": "FDN",
+    "collectorNumber": "712",
+    "uuid": "e66d4541-160c-4137-98e7-0eaa692c7d7a"
+  },
+  "Fellwar Stone": {
+    "setShortName": "MSC",
+    "collectorNumber": "285",
+    "uuid": "1e24e2bc-b239-4f9a-85c0-5f272f58ed43"
+  },
+  "Fertile Ground": {
+    "setShortName": "ECC",
+    "collectorNumber": "106",
+    "uuid": "83778d03-6196-4994-8f78-4db6cec823fb"
+  },
+  "Fiery Emancipation": {
+    "setShortName": "M21",
+    "collectorNumber": "143",
+    "uuid": "0b12e4b7-2c45-4795-94d3-901f89b8f290"
+  },
+  "Fighter Class": {
+    "setShortName": "AFR",
+    "collectorNumber": "222",
+    "uuid": "d54a8329-b940-42c9-8ace-1d74407d14cb"
+  },
+  "Fire-Lit Thicket": {
+    "setShortName": "2XM",
+    "collectorNumber": "317",
+    "uuid": "1927d645-ca43-4b8e-9932-7e70acca7aa6"
+  },
+  "Fires of Yavimaya": {
+    "setShortName": "C13",
+    "collectorNumber": "190",
+    "uuid": "82538d1b-7477-4d65-8aa2-e2b4ffec8d65"
+  },
+  "Flame Rift": {
+    "setShortName": "MH2",
+    "collectorNumber": "278",
+    "uuid": "e63ed449-d249-4639-85d2-f8fe75496d5c"
+  },
+  "Flawless Maneuver": {
+    "setShortName": "FRC",
+    "collectorNumber": "25",
+    "uuid": "3ffe82a4-584e-4ebd-9551-a745bed01e26"
+  },
+  "Flesh Carver": {
+    "setShortName": "C14",
+    "collectorNumber": "22",
+    "uuid": "cf0f88d9-681c-4152-bb45-628850717430"
+  },
+  "Fling": {
+    "setShortName": "JMP",
+    "collectorNumber": "320",
+    "uuid": "8f42d773-c742-4465-b6d5-31feaba49146"
+  },
+  "Forest": {
+    "setShortName": "HOB",
+    "collectorNumber": "198",
+    "uuid": "5f533364-0f91-4e49-aaeb-83c4c1f6d316"
+  },
+  "Forge Anew": {
+    "setShortName": "LTR",
+    "collectorNumber": "17",
+    "uuid": "56274b88-6e3f-4538-bb0c-eb5e52a58ef3"
+  },
+  "Fortified Village": {
+    "setShortName": "MSC",
+    "collectorNumber": "245",
+    "uuid": "15f81ac6-a550-4782-a3a9-22d7fef1c206"
+  },
+  "Furious Rise": {
+    "setShortName": "CMM",
+    "collectorNumber": "225",
+    "uuid": "1f5da1ab-d720-4140-8121-89de760d020c"
+  },
+  "Furnace Reins": {
+    "setShortName": "MOM",
+    "collectorNumber": "141",
+    "uuid": "e91bfea6-0e80-4239-bede-7cb971e64c1a"
+  },
+  "Furycalm Snarl": {
+    "setShortName": "MSC",
+    "collectorNumber": "247",
+    "uuid": "afc12892-4978-4442-ace5-c4dea5c0ee00"
+  },
+  "Fyndhorn Elves": {
+    "setShortName": "CMR",
+    "collectorNumber": "228",
+    "uuid": "450744cf-7eba-491b-97b0-ca80c6368bbb"
+  },
+  "Gadrak, the Crown-Scourge": {
+    "setShortName": "TDC",
+    "collectorNumber": "214",
+    "uuid": "249bf4b2-9239-4303-9c5d-81d06f6b7fb1"
+  },
+  "Gamble": {
+    "setShortName": "J20",
+    "collectorNumber": "6",
+    "uuid": "fa613b38-988c-48b5-99a0-5a11acfc76e4"
+  },
+  "Game Trail": {
+    "setShortName": "MKC",
+    "collectorNumber": "264",
+    "uuid": "2a84a604-7b05-4716-bcd8-40d2acdb76e8"
+  },
+  "Ganax, Astral Hunter": {
+    "setShortName": "CLB",
+    "collectorNumber": "176",
+    "uuid": "9f5bb319-29b2-4a7c-82e9-f8b5e47909a1"
+  },
+  "Generous Gift": {
+    "setShortName": "MSC",
+    "collectorNumber": "133",
+    "uuid": "c3f9b454-97e9-4c77-b37a-e974221ae385"
+  },
+  "Ghost Town": {
+    "setShortName": "PLST",
+    "collectorNumber": "TMP-318",
+    "uuid": "3a2c5fd9-0ad8-49c8-a68d-f767a014a4eb"
+  },
+  "Gift of Immortality": {
+    "setShortName": "MSC",
+    "collectorNumber": "134",
+    "uuid": "4ae22015-073a-4666-9e3b-15dcf61f50ce"
+  },
+  "Glacial Chasm": {
+    "setShortName": "V12",
+    "collectorNumber": "7",
+    "uuid": "c5d439cb-50bc-4a33-bb1e-7bb2b81bfce7"
+  },
+  "Glacial Fortress": {
+    "setShortName": "FRC",
+    "collectorNumber": "73",
+    "uuid": "3c726a60-8de7-4d5e-8ad5-8405e6ac36b5"
+  },
+  "Gladecover Scout": {
+    "setShortName": "M14",
+    "collectorNumber": "176",
+    "uuid": "e112d77d-f019-4709-b31a-b02952df0e35"
+  },
+  "Glyph Keeper": {
+    "setShortName": "AKH",
+    "collectorNumber": "55",
+    "uuid": "a2663738-1688-4306-be6d-6a1f94a2319c"
+  },
+  "Go for the Throat": {
+    "setShortName": "MOC",
+    "collectorNumber": "250",
+    "uuid": "5446e1ba-c745-45b2-ad05-b22abf04daec"
+  },
+  "Goblin Bombardment": {
+    "setShortName": "DDN",
+    "collectorNumber": "24",
+    "uuid": "ef9fc225-71c0-4643-aac9-fe91abfb7bb1"
+  },
+  "Godless Shrine": {
+    "setShortName": "TRK",
+    "collectorNumber": "285",
+    "uuid": "8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6"
+  },
+  "Goldspan Dragon": {
+    "setShortName": "SOC",
+    "collectorNumber": "245",
+    "uuid": "848c1951-90fa-4f01-9aed-76f1afcd9995"
+  },
+  "Grab the Prize": {
+    "setShortName": "DSK",
+    "collectorNumber": "138",
+    "uuid": "50895202-f1a1-4840-a11a-55b78b8b5929"
+  },
+  "Grazilaxx, Illithid Scholar": {
+    "setShortName": "CLB",
+    "collectorNumber": "723",
+    "uuid": "3de11222-c2fa-4544-a501-a02b31797259"
+  },
+  "Grazing Gladehart": {
+    "setShortName": "ZEN",
+    "collectorNumber": "163",
+    "uuid": "078b5290-a613-496f-bd23-8fd109549f31"
+  },
+  "Great Furnace": {
+    "setShortName": "MRD",
+    "collectorNumber": "282",
+    "uuid": "2877281d-c85d-4f32-b40d-828b93c4ee8e"
+  },
+  "Greater Good": {
+    "setShortName": "9ED",
+    "collectorNumber": "245\u2605",
+    "uuid": "a327e66f-0cd7-46f7-b20f-35c5084b158c"
+  },
+  "Grim Hireling": {
+    "setShortName": "CLB",
+    "collectorNumber": "755",
+    "uuid": "38326f48-548c-4b18-9ad2-0b7c23385deb"
+  },
+  "Gruul Turf": {
+    "setShortName": "ECC",
+    "collectorNumber": "152",
+    "uuid": "f19d2b68-1415-4a0c-bb68-cfacb611c4d2"
+  },
+  "Gwenna, Eyes of Gaea": {
+    "setShortName": "BRO",
+    "collectorNumber": "185",
+    "uuid": "7ee387b7-18e4-41b7-aefe-f2b5954e3051"
+  },
+  "Hallowed Fountain": {
+    "setShortName": "TRK",
+    "collectorNumber": "286",
+    "uuid": "b7285986-7e08-4969-86ef-452dc5bfdd9f"
+  },
+  "Hammer of Nazahn": {
+    "setShortName": "CMM",
+    "collectorNumber": "388",
+    "uuid": "e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e"
+  },
+  "Harmonize": {
+    "setShortName": "MSC",
+    "collectorNumber": "175",
+    "uuid": "bd7138fb-6aa7-455e-b1f7-ca08d747277d"
+  },
+  "Harrow": {
+    "setShortName": "EOC",
+    "collectorNumber": "98",
+    "uuid": "3e76be46-cf81-4fef-bc5b-f87666cb0413"
+  },
+  "Haunted Ridge": {
+    "setShortName": "FRA",
+    "collectorNumber": "180",
+    "uuid": "a4e4966b-8963-4fac-a8bf-e778e063c7dd"
+  },
+  "Heidegger, Shinra Executive": {
+    "setShortName": "FIC",
+    "collectorNumber": "21",
+    "uuid": "8e216baf-0e3c-4173-a852-5c5aeb3a9d79"
+  },
+  "Helitrooper": {
+    "setShortName": "FIC",
+    "collectorNumber": "22",
+    "uuid": "2073f387-9cdd-4184-8704-e6031c934b6d"
+  },
+  "Hell to Pay": {
+    "setShortName": "OTJ",
+    "collectorNumber": "126",
+    "uuid": "84ad8ed7-1429-432e-8217-a4db3b97675c"
+  },
+  "Hellkite Tyrant": {
+    "setShortName": "PLST",
+    "collectorNumber": "RVR-111",
+    "uuid": "a7cb4100-1696-4393-8f1f-634018e0b78f"
   },
   "Herald's Horn": {
     "setShortName": "M3C",
     "collectorNumber": "296",
     "uuid": "2cfafee3-c060-44bd-be6e-8d36501d72d3"
   },
-  "Plains": {
+  "Hero's Blade": {
+    "setShortName": "MSC",
+    "collectorNumber": "201",
+    "uuid": "6f2fa911-5735-4ee2-828f-59dea6927b20"
+  },
+  "Hero's Heirloom": {
+    "setShortName": "DMU",
+    "collectorNumber": "231",
+    "uuid": "5b7c0d2d-7107-4599-8d49-c7c57d21e467"
+  },
+  "Heroic Intervention": {
+    "setShortName": "CMM",
+    "collectorNumber": "295",
+    "uuid": "e32c67d1-187f-40df-b3b3-6036f5c92834"
+  },
+  "High Market": {
+    "setShortName": "SOC",
+    "collectorNumber": "380",
+    "uuid": "894aa6b6-0d08-4c43-8734-9cb7b31359c6"
+  },
+  "Homeward Path": {
+    "setShortName": "C16",
+    "collectorNumber": "301",
+    "uuid": "54734347-eee7-4c52-b514-7342afeccabd"
+  },
+  "Hyena Umbra": {
+    "setShortName": "2X2",
+    "collectorNumber": "13",
+    "uuid": "f6cc0f1f-191a-4141-965f-8d159bf54732"
+  },
+  "Idyllic Tutor": {
+    "setShortName": "THB",
+    "collectorNumber": "24",
+    "uuid": "f06edd53-f3ac-44b0-a087-5670ba8f0fa5"
+  },
+  "Impulsive Pilferer": {
+    "setShortName": "OTC",
+    "collectorNumber": "171",
+    "uuid": "0f020359-5ad1-43c4-8588-172be635cccc"
+  },
+  "Ingenious Artillerist": {
+    "setShortName": "CLB",
+    "collectorNumber": "182",
+    "uuid": "1d8dd6c3-3699-4dd1-a019-fdb569eaf722"
+  },
+  "Inspiring Statuary": {
+    "setShortName": "MKC",
+    "collectorNumber": "230",
+    "uuid": "4f7e4c0a-683b-4b22-9ea5-ed6470b8b1d7"
+  },
+  "Insult // Injury": {
+    "setShortName": "AKH",
+    "collectorNumber": "213",
+    "uuid": "eeac671f-2606-43ed-ad60-a69df5c150f6"
+  },
+  "Island": {
     "setShortName": "SPM",
+    "collectorNumber": "190",
+    "uuid": "d59cb0b5-fd4f-4dde-a69f-7ca6aa12b89f"
+  },
+  "Isolated Chapel": {
+    "setShortName": "FRC",
+    "collectorNumber": "74",
+    "uuid": "b3169b9a-f5e3-402e-883a-08274d0c7b12"
+  },
+  "Isperia the Inscrutable": {
+    "setShortName": "DIS",
+    "collectorNumber": "114",
+    "uuid": "b2b365b0-6949-41d2-be60-eb2162b1f882"
+  },
+  "Jagged Barrens": {
+    "setShortName": "OTJ",
+    "collectorNumber": "259",
+    "uuid": "5d809f5b-d965-4cb1-a9f8-2048f8534373"
+  },
+  "Jeska's Will": {
+    "setShortName": "MKC",
+    "collectorNumber": "156",
+    "uuid": "99e0c371-1024-4432-9fd9-3bc29c8d38e4"
+  },
+  "Jetmir's Garden": {
+    "setShortName": "SNC",
+    "collectorNumber": "250",
+    "uuid": "26d40e03-6de4-4373-9fbf-04c1dd79e995"
+  },
+  "Judge's Familiar": {
+    "setShortName": "RVR",
+    "collectorNumber": "192",
+    "uuid": "ed363208-cf66-4205-8512-b999b67227d3"
+  },
+  "Jukai Naturalist": {
+    "setShortName": "CMM",
+    "collectorNumber": "926",
+    "uuid": "07ff517f-5c31-46e9-9efb-52bc9ec9298d"
+  },
+  "Jungle Shrine": {
+    "setShortName": "ECC",
+    "collectorNumber": "154",
+    "uuid": "0b1a84b6-4202-4413-80ed-4142c51e619a"
+  },
+  "Juri, Master of the Revue": {
+    "setShortName": "EOC",
+    "collectorNumber": "119",
+    "uuid": "5006eae5-3b77-45ab-a907-f5094b2eaf1f"
+  },
+  "Kalain, Reclusive Painter": {
+    "setShortName": "AFR",
+    "collectorNumber": "225",
+    "uuid": "e45e9552-7737-4c61-89b0-5a3bec3c8f34"
+  },
+  "Karplusan Forest": {
+    "setShortName": "EOC",
+    "collectorNumber": "164",
+    "uuid": "67198b97-bac2-480f-aea8-12841e8884de"
+  },
+  "Kellogg, Dangerous Mind": {
+    "setShortName": "PIP",
+    "collectorNumber": "106",
+    "uuid": "f2b22b32-be24-48e3-aa81-9256190df02c"
+  },
+  "Kenrith's Transformation": {
+    "setShortName": "AFC",
+    "collectorNumber": "162",
+    "uuid": "44d60a41-3f5e-4559-b18c-22c0fe15235e"
+  },
+  "Kessig Wolf Run": {
+    "setShortName": "TDC",
+    "collectorNumber": "375",
+    "uuid": "32da0d6c-64dd-4aec-b63e-953e96164603"
+  },
+  "Kindred Discovery": {
+    "setShortName": "MSC",
+    "collectorNumber": "150",
+    "uuid": "19bdedb2-768b-4adf-8193-917a10c8f729"
+  },
+  "Knuckles the Echidna": {
+    "setShortName": "SLD",
+    "collectorNumber": "2082",
+    "uuid": "54b65cca-7844-4d3e-9d7f-ed1f49f94425"
+  },
+  "Kodama's Reach": {
+    "setShortName": "ECC",
+    "collectorNumber": "113",
+    "uuid": "90c423cc-1264-4067-9c50-e7c88c68ef2d"
+  },
+  "Kor Spiritdancer": {
+    "setShortName": "SOC",
+    "collectorNumber": "152",
+    "uuid": "48da45bd-ed72-4239-af02-e848703a1d02"
+  },
+  "Kozilek, Butcher of Truth": {
+    "setShortName": "ROE",
+    "collectorNumber": "6",
+    "uuid": "067fac91-2483-4678-b86a-2c54a3a480cf"
+  },
+  "Life from the Loam": {
+    "setShortName": "TDC",
+    "collectorNumber": "96",
+    "uuid": "cdb6432f-3f56-4c92-b09a-2a5b64620c04"
+  },
+  "Lifestream's Blessing": {
+    "setShortName": "FIC",
+    "collectorNumber": "67",
+    "uuid": "48b4101b-3428-4b6b-818a-6097a093e9b5"
+  },
+  "Light-Paws, Emperor's Voice": {
+    "setShortName": "NEO",
+    "collectorNumber": "25",
+    "uuid": "39555a72-a57b-45ee-9222-ce3b9e8de126"
+  },
+  "Lightning Bolt": {
+    "setShortName": "M11",
+    "collectorNumber": "149",
+    "uuid": "e768c957-3a1f-42f5-853a-96942f645df5"
+  },
+  "Lightning Greaves": {
+    "setShortName": "MSC",
+    "collectorNumber": "202",
+    "uuid": "b61634ae-05be-4b56-8ebb-9d4ade902e42"
+  },
+  "Lotus Cobra": {
+    "setShortName": "ZNR",
+    "collectorNumber": "193",
+    "uuid": "a4b759f0-901f-4be3-93fa-224609b08d48"
+  },
+  "Lotus Petal": {
+    "setShortName": "TPR",
+    "collectorNumber": "225",
+    "uuid": "f85ab5f9-508e-45de-8fa1-ce1f16552ffc"
+  },
+  "Luke Cage, Hero for Hire": {
+    "setShortName": "MSC",
+    "collectorNumber": "696",
+    "uuid": "51cef04a-fa47-4f82-8772-76d4bc82bada"
+  },
+  "Luxury Suite": {
+    "setShortName": "MSC",
+    "collectorNumber": "252",
+    "uuid": "3c409d1e-f634-44a2-8fcf-dcdcb0babc3f"
+  },
+  "Maddening Cacophony": {
+    "setShortName": "ZNR",
+    "collectorNumber": "67",
+    "uuid": "10a79733-702c-4611-b073-71db7f1158b2"
+  },
+  "Magda, the Hoardmaster": {
+    "setShortName": "OTJ",
+    "collectorNumber": "133",
+    "uuid": "4443d112-209b-49ec-bc40-3a11dcdb092e"
+  },
+  "Magister Sphinx": {
+    "setShortName": "2X2",
+    "collectorNumber": "247",
+    "uuid": "be662808-e452-407d-b142-bf6f30990b5a"
+  },
+  "Mahadi, Emporium Master": {
+    "setShortName": "CLB",
+    "collectorNumber": "282",
+    "uuid": "c3da2b1a-76c5-4d36-bdf8-025b86f61eb5"
+  },
+  "Malakir Rebirth": {
+    "setShortName": "ZNR",
+    "collectorNumber": "111",
+    "uuid": "609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"
+  },
+  "Manabond": {
+    "setShortName": "TPR",
+    "collectorNumber": "179",
+    "uuid": "6f94ab94-5a8f-4422-8927-0b7da85c3119"
+  },
+  "Mantle of the Ancients": {
+    "setShortName": "AFC",
+    "collectorNumber": "8",
+    "uuid": "867124fc-c8e4-4e0e-be41-b74a6bb34e86"
+  },
+  "Marionette Master": {
+    "setShortName": "AFC",
+    "collectorNumber": "102",
+    "uuid": "dd21a925-c76f-4c1d-b5b8-8d3352730e5f"
+  },
+  "Marut": {
+    "setShortName": "CLB",
+    "collectorNumber": "322",
+    "uuid": "a3ce857f-2870-4dc9-a763-9ce710e4b375"
+  },
+  "Mask of Memory": {
+    "setShortName": "CMR",
+    "collectorNumber": "324",
+    "uuid": "ba275c02-8581-46a0-9c7c-8baa0fdb4982"
+  },
+  "Mayael's Aria": {
+    "setShortName": "ARB",
+    "collectorNumber": "121",
+    "uuid": "bfd6f5dc-2fa6-450a-a1b1-6b6e31773365"
+  },
+  "Mayhem Devil": {
+    "setShortName": "EOC",
+    "collectorNumber": "121",
+    "uuid": "674f3a8a-4552-4289-b92a-06ce158f115c"
+  },
+  "Mesa Enchantress": {
+    "setShortName": "DSC",
+    "collectorNumber": "68",
+    "uuid": "c4f9e9fc-8b89-40ee-9b20-10e4a23e6333"
+  },
+  "Mind Stone": {
+    "setShortName": "SOC",
+    "collectorNumber": "352",
+    "uuid": "ad881aa0-decc-447b-8c8a-983546a9a55a"
+  },
+  "Mines of Moria": {
+    "setShortName": "LTR",
+    "collectorNumber": "257",
+    "uuid": "0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f"
+  },
+  "Mirkwood Bats": {
+    "setShortName": "LTR",
+    "collectorNumber": "95",
+    "uuid": "15f035df-784a-4dc8-b7f5-77139a4e6e99"
+  },
+  "Misty Rainforest": {
+    "setShortName": "MH2",
+    "collectorNumber": "250",
+    "uuid": "88231c0d-0cc8-44ec-bf95-81d1710ac141"
+  },
+  "Moment's Peace": {
+    "setShortName": "ODY",
+    "collectorNumber": "251",
+    "uuid": "40ebe935-ccf9-435e-8fe8-53bcbf3526e7"
+  },
+  "Morphic Pool": {
+    "setShortName": "CLB",
+    "collectorNumber": "357",
+    "uuid": "48e40927-dd87-42ed-b805-0ae8ba81f5fb"
+  },
+  "Mossborn Hydra": {
+    "setShortName": "FDN",
+    "collectorNumber": "107",
+    "uuid": "7054a0d7-396f-40b4-ab24-db591c3b08f0"
+  },
+  "Mossfire Valley": {
+    "setShortName": "TDC",
+    "collectorNumber": "378",
+    "uuid": "29208018-8079-44bc-b33b-21cda4709bf2"
+  },
+  "Mount Doom": {
+    "setShortName": "LTR",
+    "collectorNumber": "754",
+    "uuid": "d7852b73-3c05-45a3-b0dc-206c87bef7a3"
+  },
+  "Mountain": {
+    "setShortName": "MSH",
+    "collectorNumber": "440",
+    "uuid": "bc4409dc-aadf-4c0e-a854-190ccc971ea5"
+  },
+  "Multani, Yavimaya's Avatar": {
+    "setShortName": "EOC",
+    "collectorNumber": "100",
+    "uuid": "c37a0136-1c40-4cd1-8787-a25c377c1741"
+  },
+  "Myriad Landscape": {
+    "setShortName": "EOC",
+    "collectorNumber": "169",
+    "uuid": "a0e2098f-1d94-491a-a7e9-a45a9f69e3a8"
+  },
+  "Mystic Sanctuary": {
+    "setShortName": "SOC",
+    "collectorNumber": "388",
+    "uuid": "4cd86997-d7b9-4b5b-9488-11f5c679e4d3"
+  },
+  "Nadier's Nightblade": {
+    "setShortName": "MH3",
+    "collectorNumber": "275",
+    "uuid": "bc9926d7-91b7-4067-b590-a0430bf68d16"
+  },
+  "Natural Order": {
+    "setShortName": "PRM",
+    "collectorNumber": "43536",
+    "uuid": "d80b95f4-c86e-4957-bdc5-a847303ec9c3"
+  },
+  "Nature's Lore": {
+    "setShortName": "MSC",
+    "collectorNumber": "177",
+    "uuid": "7afc4a15-5ff8-457a-aa62-803b2d78d912"
+  },
+  "Negate": {
+    "setShortName": "TMT",
+    "collectorNumber": "47",
+    "uuid": "52d58fe4-6070-4022-9cd7-c35a11b44525"
+  },
+  "Nemesis of Reason": {
+    "setShortName": "CLB",
+    "collectorNumber": "850",
+    "uuid": "022aacc6-2d82-43c0-ac08-ba9b20578929"
+  },
+  "Nephalia Drownyard": {
+    "setShortName": "LCC",
+    "collectorNumber": "344",
+    "uuid": "fe2e25b7-f950-482b-9e35-266b1278a71a"
+  },
+  "Night's Whisper": {
+    "setShortName": "HOC",
     "collectorNumber": "189",
-    "uuid": "1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd"
+    "uuid": "e8399c2e-ecc8-41c9-a690-a0eeafb27f77"
+  },
+  "Nighthowler": {
+    "setShortName": "CLB",
+    "collectorNumber": "764",
+    "uuid": "b76dab3d-1788-4ab7-8d2b-70f7787cf935"
+  },
+  "Nissa, Vital Force": {
+    "setShortName": "KLD",
+    "collectorNumber": "163",
+    "uuid": "bbaaa98a-ec40-4ff1-8762-a719cf1c475d"
+  },
+  "Ojer Kaslem, Deepest Growth": {
+    "setShortName": "LCI",
+    "collectorNumber": "204",
+    "uuid": "0cbc43a3-8cba-4988-9de1-c89aedd79ada"
+  },
+  "Omnath, Locus of Rage": {
+    "setShortName": "ECC",
+    "collectorNumber": "129",
+    "uuid": "637c5910-f835-496e-b1b9-445bfb71da97"
+  },
+  "Opt": {
+    "setShortName": "TDC",
+    "collectorNumber": "158",
+    "uuid": "bbc99a51-1501-4525-a3cc-f48249b64bed"
+  },
+  "Oracle of Mul Daya": {
+    "setShortName": "EOC",
+    "collectorNumber": "102",
+    "uuid": "ab19808f-a5b8-4dfd-800e-2064cd6538c8"
+  },
+  "Orcish Bowmasters": {
+    "setShortName": "PLTR",
+    "collectorNumber": "103s",
+    "uuid": "10f14c9e-6776-4efd-9e3b-1d25b7625e17"
+  },
+  "Overcharged Amalgam": {
+    "setShortName": "INR",
+    "collectorNumber": "80",
+    "uuid": "2fae9b40-a1ee-425d-bbf6-fa4b0861cdc4"
+  },
+  "Path of Ancestry": {
+    "setShortName": "MSC",
+    "collectorNumber": "254",
+    "uuid": "836b8f52-10d2-4716-9f7b-38fb23bc68de"
+  },
+  "Path to Exile": {
+    "setShortName": "FRC",
+    "collectorNumber": "30",
+    "uuid": "22e08a78-55b7-46b0-bd1a-a51548fc1861"
+  },
+  "Petrified Field": {
+    "setShortName": "ODY",
+    "collectorNumber": "323",
+    "uuid": "eaeaf9f2-d196-4607-a704-06f2315d8cc5"
+  },
+  "Phenomenon Investigators": {
+    "setShortName": "DSC",
+    "collectorNumber": "38",
+    "uuid": "57195155-6bdf-43c3-9f2e-11c31aef6b9c"
+  },
+  "Phylath, World Sculptor": {
+    "setShortName": "ZNR",
+    "collectorNumber": "234",
+    "uuid": "e7af88c9-70ca-484c-bddf-b705e0ea7bc7"
+  },
+  "Phyrexian Arena": {
+    "setShortName": "FDN",
+    "collectorNumber": "180",
+    "uuid": "0784b6f0-9ebf-43d2-ba0f-a6bc93ba0c48"
+  },
+  "Phyrexian Tower": {
+    "setShortName": "JMP",
+    "collectorNumber": "493",
+    "uuid": "05b2cc68-1d20-421f-9800-af0996071554"
+  },
+  "Pitiless Plunderer": {
+    "setShortName": "RIX",
+    "collectorNumber": "81",
+    "uuid": "c87ebffe-5907-427b-9f9b-7c36a12b4a03"
+  },
+  "Plains": {
+    "setShortName": "HOB",
+    "collectorNumber": "194",
+    "uuid": "24dc369c-020a-4115-a4bb-d60a44de64e3"
+  },
+  "Polluted Delta": {
+    "setShortName": "MH3",
+    "collectorNumber": "224",
+    "uuid": "6e288374-2b71-4ace-b1d2-a19fee6cb4af"
+  },
+  "Pongify": {
+    "setShortName": "TDC",
+    "collectorNumber": "160",
+    "uuid": "4131fa63-5afc-4b63-a4b4-f47b4bced87f"
+  },
+  "Prairie Stream": {
+    "setShortName": "FRC",
+    "collectorNumber": "79",
+    "uuid": "a93c2e0b-3fca-476e-ae5b-a331ccacae19"
+  },
+  "Preordain": {
+    "setShortName": "TDC",
+    "collectorNumber": "161",
+    "uuid": "dd29a0e5-c1de-4e8a-8866-715e9f9cde1f"
+  },
+  "Price of Progress": {
+    "setShortName": "PLST",
+    "collectorNumber": "EMA-141",
+    "uuid": "52fdf6bf-c383-416e-9bf8-42347ba846ad"
+  },
+  "Professional Face-Breaker": {
+    "setShortName": "SNC",
+    "collectorNumber": "116",
+    "uuid": "42acbf52-b137-44f0-a815-2817fe8d2da2"
+  },
+  "Professor Hojo": {
+    "setShortName": "FIC",
+    "collectorNumber": "69",
+    "uuid": "107ffe2e-47eb-43de-bc9e-c68013b62912"
+  },
+  "Prognostic Sphinx": {
+    "setShortName": "DSC",
+    "collectorNumber": "124",
+    "uuid": "d9d36763-2975-4b5c-aeda-2d0159cb5191"
+  },
+  "Puresteel Paladin": {
+    "setShortName": "CMM",
+    "collectorNumber": "51",
+    "uuid": "d8f8a324-006d-4cb8-9816-620a603b4229"
+  },
+  "Purphoros, God of the Forge": {
+    "setShortName": "THS",
+    "collectorNumber": "135",
+    "uuid": "7bf6baf2-d20b-467d-8929-abefcf7dfa99"
+  },
+  "Quicksilver Amulet": {
+    "setShortName": "E02",
+    "collectorNumber": "44",
+    "uuid": "ab053d73-31a9-4e70-9310-4e250862ad6b"
+  },
+  "Radiant Grove": {
+    "setShortName": "TDC",
+    "collectorNumber": "385",
+    "uuid": "466fd4e6-f1dd-40c9-92df-1da48ab729d6"
+  },
+  "Raffine's Tower": {
+    "setShortName": "SNC",
+    "collectorNumber": "254",
+    "uuid": "a2c56479-4bee-4edb-80d7-4af010b7c793"
+  },
+  "Raffine, Scheming Seer": {
+    "setShortName": "SNC",
+    "collectorNumber": "213",
+    "uuid": "716a44b4-f6b0-4f14-a270-6442aed3251f"
+  },
+  "Ragavan, Nimble Pilferer": {
+    "setShortName": "MH2",
+    "collectorNumber": "138",
+    "uuid": "a9738cda-adb1-47fb-9f4c-ecd930228c4d"
+  },
+  "Raise the Palisade": {
+    "setShortName": "LTC",
+    "collectorNumber": "23",
+    "uuid": "7966eb7a-0ef7-470f-9769-0d5f45f0395b"
+  },
+  "Rakdos Charm": {
+    "setShortName": "EOC",
+    "collectorNumber": "125",
+    "uuid": "64b67170-1602-4050-80c0-ade2a6cac211"
+  },
+  "Rakdos Signet": {
+    "setShortName": "DIS",
+    "collectorNumber": "165",
+    "uuid": "17a3f95c-5a05-46ea-8dc6-b77b59324035"
+  },
+  "Rakdos, Lord of Riots": {
+    "setShortName": "GK2",
+    "collectorNumber": "52",
+    "uuid": "133829fd-4ba5-418c-b64e-7b7157ef1a4c"
+  },
+  "Rampant Growth": {
+    "setShortName": "TDC",
+    "collectorNumber": "265",
+    "uuid": "b7c47024-5e08-4b17-b41a-7647f8b814b9"
+  },
+  "Ramunap Excavator": {
+    "setShortName": "OTC",
+    "collectorNumber": "202",
+    "uuid": "3f8a0a0e-81f7-40a2-b393-bdc1423549f6"
+  },
+  "Rancor": {
+    "setShortName": "2X2",
+    "collectorNumber": "156",
+    "uuid": "86d6b411-4a31-4bfc-8dd6-e19f553bb29b"
+  },
+  "Rapid Hybridization": {
+    "setShortName": "SOC",
+    "collectorNumber": "198",
+    "uuid": "ccda5bda-5afd-4548-bd48-12c780bfa68b"
+  },
+  "Raucous Theater": {
+    "setShortName": "MKM",
+    "collectorNumber": "266",
+    "uuid": "b598c93e-dae1-4d71-a9e4-917abf76d2d0"
+  },
+  "Razorverge Thicket": {
+    "setShortName": "MSC",
+    "collectorNumber": "259",
+    "uuid": "df1233de-4449-4c32-944b-e19bed666324"
+  },
+  "Read the Bones": {
+    "setShortName": "DSC",
+    "collectorNumber": "154",
+    "uuid": "b3198f96-f9d8-494f-a556-24ce3ad3895d"
+  },
+  "Realms Uncharted": {
+    "setShortName": "ROE",
+    "collectorNumber": "206",
+    "uuid": "8967ceff-9e25-46da-926b-e05f4ee98325"
+  },
+  "Reanimate": {
+    "setShortName": "FIC",
+    "collectorNumber": "282",
+    "uuid": "58838b71-404f-41ad-9a9b-2c7f875bab06"
+  },
+  "Reckless Fireweaver": {
+    "setShortName": "KLD",
+    "collectorNumber": "126",
+    "uuid": "63ffac51-62c4-4170-85b3-a43d7cfae7d7"
+  },
+  "Red XIII, Proud Warrior": {
+    "setShortName": "FIC",
+    "collectorNumber": "91",
+    "uuid": "10407b26-be28-4628-9567-746681e5c834"
+  },
+  "Reflections of Littjara": {
+    "setShortName": "TDC",
+    "collectorNumber": "164",
+    "uuid": "578a1846-8c1a-4013-b669-1d3f4ddbbaa3"
+  },
+  "Reliquary Tower": {
+    "setShortName": "SOC",
+    "collectorNumber": "398",
+    "uuid": "e2a27742-08c1-4153-af7f-25a7a98f585e"
+  },
+  "Restless Reef": {
+    "setShortName": "LCI",
+    "collectorNumber": "282",
+    "uuid": "8a8121c9-2480-419c-aa9c-5b8b55f65014"
+  },
+  "Retether": {
+    "setShortName": "PLC",
+    "collectorNumber": "13",
+    "uuid": "0faa005e-c753-4484-bf64-349350d59094"
+  },
+  "Retreat to Kazandu": {
+    "setShortName": "BFZ",
+    "collectorNumber": "186",
+    "uuid": "53884f2a-6749-4d85-be64-82919eb30e39"
+  },
+  "Return to Nature": {
+    "setShortName": "MID",
+    "collectorNumber": "195",
+    "uuid": "6e25c252-4177-4193-914c-b6933d9c0d7d"
+  },
+  "Revel in Riches": {
+    "setShortName": "XLN",
+    "collectorNumber": "117",
+    "uuid": "79b0e035-8716-469d-99ae-a530cd96ef09"
+  },
+  "River of Tears": {
+    "setShortName": "MKC",
+    "collectorNumber": "283",
+    "uuid": "67b626cc-1c12-4059-afa5-e5a1221ea1ba"
+  },
+  "Rockfall Vale": {
+    "setShortName": "FRA",
+    "collectorNumber": "186",
+    "uuid": "e3c8a8b6-23ba-45ad-80d1-8e2dc79897f7"
+  },
+  "Rogue's Passage": {
+    "setShortName": "HOC",
+    "collectorNumber": "212",
+    "uuid": "4493b62b-f354-47ff-9dcf-cc6e29de77c6"
+  },
+  "Rootbound Crag": {
+    "setShortName": "MSC",
+    "collectorNumber": "261",
+    "uuid": "42d174e5-b8c2-45eb-8e08-1b94fc27cbee"
+  },
+  "Rugged Prairie": {
+    "setShortName": "SOC",
+    "collectorNumber": "401",
+    "uuid": "6bd21c9e-de16-4ee9-ae16-6e82b490109d"
+  },
+  "Ruthless Technomancer": {
+    "setShortName": "NEC",
+    "collectorNumber": "35",
+    "uuid": "dddeb5cc-b535-4484-8a0e-ce32c4c09000"
+  },
+  "SOLDIER Military Program": {
+    "setShortName": "FIC",
+    "collectorNumber": "25",
+    "uuid": "dddad2c2-bd19-42bd-aad6-bbf23ccef269"
+  },
+  "Sacred Foundry": {
+    "setShortName": "TRK",
+    "collectorNumber": "295",
+    "uuid": "a7758cc6-4e18-48a5-8720-5f42b5cd9d31"
+  },
+  "Sacred Peaks": {
+    "setShortName": "SOC",
+    "collectorNumber": "402",
+    "uuid": "ee2d6798-b19d-4628-bb57-05663ab4af68"
+  },
+  "Sage's Reverie": {
+    "setShortName": "SOC",
+    "collectorNumber": "165",
+    "uuid": "5515393a-7d4d-454f-a550-156862ab02f1"
+  },
+  "Sanctum Weaver": {
+    "setShortName": "CMM",
+    "collectorNumber": "910",
+    "uuid": "3c9ac089-6962-48fd-bf67-f041ece27fa9"
+  },
+  "Sarkhan's Unsealing": {
+    "setShortName": "M19",
+    "collectorNumber": "155",
+    "uuid": "edfa8c8c-8013-46d5-8e80-3d9285fe81c8"
+  },
+  "Scalding Tarn": {
+    "setShortName": "MH2",
+    "collectorNumber": "254",
+    "uuid": "71e491c5-8c07-449b-b2f1-ffa052e6d311"
+  },
+  "Scapeshift": {
+    "setShortName": "M19",
+    "collectorNumber": "201",
+    "uuid": "175e21a3-00f7-4c51-8a8e-fbfd7089efda"
+  },
+  "Scavenger Grounds": {
+    "setShortName": "MSC",
+    "collectorNumber": "263",
+    "uuid": "9fbe68ba-ffe5-4fe0-ac0a-0b3221e4f395"
+  },
+  "Season of Growth": {
+    "setShortName": "M20",
+    "collectorNumber": "191",
+    "uuid": "65b9a718-01b9-46b2-85eb-55f6206ee5e4"
+  },
+  "Secret Rendezvous": {
+    "setShortName": "SOC",
+    "collectorNumber": "166",
+    "uuid": "9be712b3-14ed-4a73-b3d3-5b76b2c5db64"
+  },
+  "Seething Song": {
+    "setShortName": "C21",
+    "collectorNumber": "179",
+    "uuid": "f493ce26-005c-4ddc-80f0-47bea4fd013a"
+  },
+  "Seize the Spoils": {
+    "setShortName": "SOS",
+    "collectorNumber": "129",
+    "uuid": "4ddf4e34-a1f9-4636-942d-0a08e9f94320"
+  },
+  "Sephiroth, Fallen Hero": {
+    "setShortName": "FIC",
+    "collectorNumber": "92",
+    "uuid": "df919eb8-9eff-4777-9c46-94c795cda918"
+  },
+  "Serum Sovereign": {
+    "setShortName": "ONE",
+    "collectorNumber": "405",
+    "uuid": "70d562aa-8b49-40a3-a5c1-3af8afa98edc"
+  },
+  "Setessan Champion": {
+    "setShortName": "CMM",
+    "collectorNumber": "912",
+    "uuid": "7680a8e1-cd59-43c5-8f06-426b918692c8"
+  },
+  "Sewer Nemesis": {
+    "setShortName": "CLB",
+    "collectorNumber": "771",
+    "uuid": "cdb8d320-fecc-42c2-b9d8-a9f6dd44b36d"
+  },
+  "Shattered Sanctum": {
+    "setShortName": "SOS",
+    "collectorNumber": "260",
+    "uuid": "5aa0c810-3b7d-4661-979e-e84fb327742d"
+  },
+  "Sheltered Thicket": {
+    "setShortName": "ECC",
+    "collectorNumber": "167",
+    "uuid": "ad7f87dd-1c43-4b6f-9d68-cc09ef76dbc2"
+  },
+  "Sheltered by Ghosts": {
+    "setShortName": "SOC",
+    "collectorNumber": "171",
+    "uuid": "8e8a5cfe-1b3f-4414-b9a4-078bdb4072a7"
+  },
+  "Sheoldred's Edict": {
+    "setShortName": "ONE",
+    "collectorNumber": "108",
+    "uuid": "a9225cc3-90f0-448f-a8d9-7c6c2796d077"
+  },
+  "Shield of the Oversoul": {
+    "setShortName": "SHM",
+    "collectorNumber": "242",
+    "uuid": "54040bc6-dd7c-4933-bfac-d0d6d2c78157"
+  },
+  "Shipwreck Marsh": {
+    "setShortName": "FRA",
+    "collectorNumber": "189",
+    "uuid": "9e944c5b-68ac-4a30-bbd4-09a4288319ce"
+  },
+  "Sigarda's Aid": {
+    "setShortName": "CMR",
+    "collectorNumber": "384",
+    "uuid": "531da950-dc96-4050-94a8-e01b73ddd965"
+  },
+  "Sigarda, Host of Herons": {
+    "setShortName": "AVR",
+    "collectorNumber": "210",
+    "uuid": "feccd0e2-fae6-4ced-acdf-4252ed5c56e7"
+  },
+  "Sign in Blood": {
+    "setShortName": "M13",
+    "collectorNumber": "110",
+    "uuid": "64f6600b-36c4-43bd-8c01-cfbca402ecd6"
+  },
+  "Silent Hallcreeper": {
+    "setShortName": "DSK",
+    "collectorNumber": "72",
+    "uuid": "aac4f0cc-63be-4f08-956e-39839c9735ba"
+  },
+  "Silhana Ledgewalker": {
+    "setShortName": "OTC",
+    "collectorNumber": "206",
+    "uuid": "21a2d11e-48b7-4e9a-a574-838cc26c2b17"
+  },
+  "Simian Spirit Guide": {
+    "setShortName": "TSR",
+    "collectorNumber": "190",
+    "uuid": "0e57335d-4066-4d73-83cd-67a215e01a4e"
+  },
+  "Sire of Seven Deaths": {
+    "setShortName": "FDN",
+    "collectorNumber": "1",
+    "uuid": "8d8432a7-1c8a-4cfb-947c-ecf9791063eb"
+  },
+  "Skullclamp": {
+    "setShortName": "MSC",
+    "collectorNumber": "210",
+    "uuid": "1d8b007b-3169-4ee3-80c7-781fc096fc7a"
   },
   "Skycloud Expanse": {
     "setShortName": "EOC",
     "collectorNumber": "181",
     "uuid": "03f8c846-d80c-49a4-a562-e817cd0c6096"
   },
-  "Swamp": {
+  "Skyshroud Claim": {
+    "setShortName": "EOC",
+    "collectorNumber": "107",
+    "uuid": "860c0808-3ec1-4182-bf83-783720a02780"
+  },
+  "Slayers' Stronghold": {
+    "setShortName": "MKC",
+    "collectorNumber": "295",
+    "uuid": "3b2c82ea-6793-407c-ac9f-5fc14d4d09ea"
+  },
+  "Smaug the Magnificent": {
+    "setShortName": "HOB",
+    "collectorNumber": "110",
+    "uuid": "6a5d8fad-2ffd-4645-8c49-907999b6cecf"
+  },
+  "Smuggler's Copter": {
+    "setShortName": "NEC",
+    "collectorNumber": "160",
+    "uuid": "2680ed41-da35-475a-9d80-ae2f4686feed"
+  },
+  "Snake Umbra": {
+    "setShortName": "NEC",
+    "collectorNumber": "130",
+    "uuid": "106d17d6-5ef2-4634-8dd6-790b12574042"
+  },
+  "Sol Ring": {
+    "setShortName": "DRC",
+    "collectorNumber": "57",
+    "uuid": "c946b161-0e4f-4c0a-a075-cdcf05504d0b"
+  },
+  "Somberwald Sage": {
+    "setShortName": "AVR",
+    "collectorNumber": "194",
+    "uuid": "409c0272-7a43-4a6c-ab3f-740397b1f5c8"
+  },
+  "Soulblast": {
+    "setShortName": "10E",
+    "collectorNumber": "236",
+    "uuid": "82e4e1b9-d93e-443e-91a4-69d4c9dac517"
+  },
+  "Spectator Seating": {
+    "setShortName": "MSC",
+    "collectorNumber": "268",
+    "uuid": "4c62dcfc-4bc8-4551-b3c7-9eec26be3362"
+  },
+  "Spellseeker": {
+    "setShortName": "CMM",
+    "collectorNumber": "120",
+    "uuid": "a749c591-2fbe-41d8-ac5b-56ebce82d33e"
+  },
+  "Spellskite": {
+    "setShortName": "CLB",
+    "collectorNumber": "873",
+    "uuid": "72204934-f5aa-4559-8f7e-7b0b223580d0"
+  },
+  "Sphinx of the Revelation": {
+    "setShortName": "M3C",
+    "collectorNumber": "75",
+    "uuid": "cde649e6-1582-4f77-8cff-dcc477140d67"
+  },
+  "Spire Garden": {
+    "setShortName": "TMC",
+    "collectorNumber": "75",
+    "uuid": "48444c3e-2068-4961-a9cd-9398052e5bd6"
+  },
+  "Spire of Industry": {
+    "setShortName": "EOC",
+    "collectorNumber": "183",
+    "uuid": "35e9ec06-a848-4230-84a2-19cb8034e0f0"
+  },
+  "Spirit Mantle": {
+    "setShortName": "SOC",
+    "collectorNumber": "175",
+    "uuid": "8ac5a048-e8aa-48e8-b51b-b4e9a5b63ea6"
+  },
+  "Splendid Reclamation": {
+    "setShortName": "EOC",
+    "collectorNumber": "108",
+    "uuid": "63c7f172-0aec-4629-967c-37253aed0f0d"
+  },
+  "Sprouting Vines": {
+    "setShortName": "C13",
+    "collectorNumber": "173",
+    "uuid": "b16ba7be-47e6-4c64-918d-bec60abccaa3"
+  },
+  "Sram, Senior Edificer": {
+    "setShortName": "SOC",
+    "collectorNumber": "176",
+    "uuid": "8fbd18ce-0ac3-4b52-9cd0-0af7e0244207"
+  },
+  "Stark Industries Executive": {
+    "setShortName": "MSH",
+    "collectorNumber": "153",
+    "uuid": "709ffd07-706c-471f-b74d-4637afa11686"
+  },
+  "Starstorm": {
+    "setShortName": "BLC",
+    "collectorNumber": "203",
+    "uuid": "a5f3ab82-2a24-4c6c-bdd9-f2bd5adca144"
+  },
+  "Steelshaper's Gift": {
+    "setShortName": "CMM",
+    "collectorNumber": "59",
+    "uuid": "55d61383-b739-4422-a76c-d8cbca13c5b2"
+  },
+  "Stomping Ground": {
+    "setShortName": "TRK",
+    "collectorNumber": "299",
+    "uuid": "1ee8255a-44f6-4faa-9843-15432bf751ea"
+  },
+  "Stoneforge Mystic": {
+    "setShortName": "2XM",
+    "collectorNumber": "31",
+    "uuid": "4d3473d0-b46f-41f5-ac1e-ba217f7747d4"
+  },
+  "Strike It Rich": {
+    "setShortName": "MH2",
+    "collectorNumber": "143",
+    "uuid": "1c7c2814-a617-4123-acdf-1b01b2768210"
+  },
+  "Strip Mine": {
+    "setShortName": "V09",
+    "collectorNumber": "13",
+    "uuid": "2b5315a4-6a78-456f-8d5a-fea9d62f3f0e"
+  },
+  "Stroke of Midnight": {
+    "setShortName": "FRC",
+    "collectorNumber": "35",
+    "uuid": "d42b9f9e-2df2-491e-b6ac-3b2bac8a8d8e"
+  },
+  "Summon: Kujata": {
+    "setShortName": "FIC",
+    "collectorNumber": "61",
+    "uuid": "ba934866-efd0-4126-b1ff-9c7e82b73bd6"
+  },
+  "Summoning Materia": {
+    "setShortName": "FIC",
+    "collectorNumber": "72",
+    "uuid": "176401fb-f87c-4085-9dac-e6c8a843e32e"
+  },
+  "Sundown Pass": {
     "setShortName": "SOS",
-    "collectorNumber": "269",
-    "uuid": "1797d5c7-d3fa-4184-85ae-46db14ddf523"
+    "collectorNumber": "264",
+    "uuid": "b34000e9-ff20-4fb4-9d0b-03a172a92457"
+  },
+  "Sungrass Prairie": {
+    "setShortName": "MSC",
+    "collectorNumber": "497",
+    "uuid": "62c1b56d-8d48-41aa-8bc9-276b984b0836"
+  },
+  "Sunken Hollow": {
+    "setShortName": "MSC",
+    "collectorNumber": "271",
+    "uuid": "3a8eef9b-9b03-42cd-a27a-07021bf0b33f"
+  },
+  "Sunpetal Grove": {
+    "setShortName": "MSC",
+    "collectorNumber": "272",
+    "uuid": "e83092ee-4a90-4eac-915f-3fd01b7d9bd0"
+  },
+  "Sunscorched Divide": {
+    "setShortName": "SOC",
+    "collectorNumber": "410",
+    "uuid": "eae999f9-9c58-4609-8ade-aca0acf07519"
+  },
+  "Supreme Verdict": {
+    "setShortName": "CLU",
+    "collectorNumber": "211",
+    "uuid": "3892f1c5-937e-4ef4-b6f9-e0c0ded070d0"
+  },
+  "Swamp": {
+    "setShortName": "SPM",
+    "collectorNumber": "191",
+    "uuid": "5cb03b18-d74c-4c89-9539-3549d2e8ff5f"
+  },
+  "Swan Song": {
+    "setShortName": "EOC",
+    "collectorNumber": "46",
+    "uuid": "83d0b761-d694-4232-9f40-5bd8c82a05f1"
+  },
+  "Swiftfoot Boots": {
+    "setShortName": "FDN",
+    "collectorNumber": "355",
+    "uuid": "3e9b53da-4744-429d-97c6-f7ee4d568731"
+  },
+  "Sword of the Animist": {
+    "setShortName": "CMM",
+    "collectorNumber": "413",
+    "uuid": "64401acc-d080-4763-b67a-95164c11c69e"
   },
   "Swords to Plowshares": {
     "setShortName": "TDC",
     "collectorNumber": "134",
     "uuid": "f87cf997-14b5-4a2c-a7d1-34b7de6561a2"
   },
+  "Sylvan Library": {
+    "setShortName": "DMR",
+    "collectorNumber": "179",
+    "uuid": "6ada256f-2e55-4c1f-b4d3-d7b10b498956"
+  },
+  "Sylvan Scrying": {
+    "setShortName": "BFZ",
+    "collectorNumber": "192",
+    "uuid": "d1b93087-e6a0-4ba9-83ba-a0ed2e396dc7"
+  },
+  "Tainted Isle": {
+    "setShortName": "PIP",
+    "collectorNumber": "827",
+    "uuid": "1f94ddd6-e957-4eb2-96e3-56db87aba066"
+  },
+  "Tainted Wood": {
+    "setShortName": "DSC",
+    "collectorNumber": "305",
+    "uuid": "3da7ab6b-b10a-4786-b1eb-92de7e66690e"
+  },
+  "Talisman of Conviction": {
+    "setShortName": "MSC",
+    "collectorNumber": "217",
+    "uuid": "a365885c-f7d9-4ea1-9125-5265055e5570"
+  },
+  "Talisman of Dominance": {
+    "setShortName": "FRC",
+    "collectorNumber": "62",
+    "uuid": "78d5366f-eb6d-4ec1-880b-111872863766"
+  },
+  "Talisman of Hierarchy": {
+    "setShortName": "SOC",
+    "collectorNumber": "358",
+    "uuid": "0c959368-2f58-48de-b7a5-2bab408652b5"
+  },
+  "Talisman of Indulgence": {
+    "setShortName": "MRD",
+    "collectorNumber": "255",
+    "uuid": "e14011b3-56ce-4b93-833f-d8403809159c"
+  },
+  "Talisman of Progress": {
+    "setShortName": "FRC",
+    "collectorNumber": "64",
+    "uuid": "454ed9c8-3ec1-4b65-bf3f-29a186742aed"
+  },
+  "Talisman of Unity": {
+    "setShortName": "MKC",
+    "collectorNumber": "244",
+    "uuid": "89e8443d-daf4-4cef-9080-d7568b5c540e"
+  },
+  "Temple Garden": {
+    "setShortName": "TRK",
+    "collectorNumber": "301",
+    "uuid": "b9b0589d-f327-46a7-8bac-06b7654c547a"
+  },
+  "Temple of Enlightenment": {
+    "setShortName": "EOC",
+    "collectorNumber": "186",
+    "uuid": "dd139d4d-3a40-4015-93de-c838c64156c6"
+  },
+  "Temple of Silence": {
+    "setShortName": "SOC",
+    "collectorNumber": "415",
+    "uuid": "f7d3770f-cde6-4e29-8cbf-fe841634a5d7"
+  },
+  "Tempt with Discovery": {
+    "setShortName": "C19",
+    "collectorNumber": "183",
+    "uuid": "79248b68-4fab-46da-ab15-5c71c1f68d4b"
+  },
+  "Terminate": {
+    "setShortName": "MSC",
+    "collectorNumber": "189",
+    "uuid": "379ffc67-4142-4ead-a871-0f851523745e"
+  },
+  "Terramorphic Expanse": {
+    "setShortName": "MSC",
+    "collectorNumber": "273",
+    "uuid": "a81f924b-0527-4311-8120-9bfff71524f6"
+  },
+  "The Misty Mountains Cold": {
+    "setShortName": "HOB",
+    "collectorNumber": "104",
+    "uuid": "3d5f35ff-4146-4844-9da5-031461cc8c05"
+  },
+  "Theater of Horrors": {
+    "setShortName": "RNA",
+    "collectorNumber": "213",
+    "uuid": "ad42efd5-79c8-44f9-b3d6-d9058e0cb0f6"
+  },
+  "Thought Vessel": {
+    "setShortName": "MBC",
+    "collectorNumber": "78",
+    "uuid": "ad077996-6b5e-4eb8-bb6e-93d43c5efa8f"
+  },
+  "Three Visits": {
+    "setShortName": "MSC",
+    "collectorNumber": "181",
+    "uuid": "99bf792f-963e-4509-8d3c-7db129c6a77f"
+  },
+  "Thrun, the Last Troll": {
+    "setShortName": "MBS",
+    "collectorNumber": "92",
+    "uuid": "5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a"
+  },
+  "Tifa, Martial Artist": {
+    "setShortName": "FIC",
+    "collectorNumber": "6",
+    "uuid": "31513afc-329c-4913-8fcd-945c39ec82b2"
+  },
+  "Time Wipe": {
+    "setShortName": "TDC",
+    "collectorNumber": "308",
+    "uuid": "eb4b75e6-3080-412b-bf40-b6029ea8bbfe"
+  },
+  "Tireless Provisioner": {
+    "setShortName": "J25",
+    "collectorNumber": "728",
+    "uuid": "5dbc2162-238d-492b-b629-94f771230d92"
+  },
+  "Titania, Protector of Argoth": {
+    "setShortName": "EOC",
+    "collectorNumber": "111",
+    "uuid": "732c208b-cd9e-48a9-9b9d-aba63066ba53"
+  },
+  "Torment of Hailfire": {
+    "setShortName": "HOU",
+    "collectorNumber": "77",
+    "uuid": "f69d77d1-5980-436c-bf48-790939b069aa"
+  },
   "Toxic Deluge": {
     "setShortName": "SOC",
     "collectorNumber": "120",
     "uuid": "a1c2a8da-56b0-4cab-b07b-10cac92c72c5"
+  },
+  "Trailblazer's Boots": {
+    "setShortName": "OTC",
+    "collectorNumber": "269",
+    "uuid": "aa05985b-e2cb-412f-a2ad-b8d723d9f451"
+  },
+  "Treasure Map": {
+    "setShortName": "LCI",
+    "collectorNumber": "267",
+    "uuid": "a924fe1e-a85e-4e14-88d2-ac55130638ab"
+  },
+  "Treasure Vault": {
+    "setShortName": "AFR",
+    "collectorNumber": "261",
+    "uuid": "a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4"
+  },
+  "Trinket Mage": {
+    "setShortName": "DDU",
+    "collectorNumber": "41",
+    "uuid": "9a7800f7-95cd-4f5c-b054-4afad8924367"
+  },
+  "Uchuulon": {
+    "setShortName": "CLB",
+    "collectorNumber": "673",
+    "uuid": "ecef5fca-72ec-4aee-af6e-ee5d6f6bc567"
+  },
+  "Ultimate Magic: Holy": {
+    "setShortName": "FIC",
+    "collectorNumber": "32",
+    "uuid": "8fdb8414-2f08-42fb-ae0a-c7f0af1e144e"
+  },
+  "Ultimate Magic: Meteor": {
+    "setShortName": "FIC",
+    "collectorNumber": "62",
+    "uuid": "b5b0f0fd-574a-4ae7-ab55-b815112d6b3a"
+  },
+  "Ulvenwald Hydra": {
+    "setShortName": "JMP",
+    "collectorNumber": "439",
+    "uuid": "0700d1c1-faab-4a1a-b55d-a2fa4582a2b4"
+  },
+  "Umbris, Fear Manifest": {
+    "setShortName": "VOC",
+    "collectorNumber": "38",
+    "uuid": "7aead6a8-bada-42cf-b7cc-0b730f564582"
+  },
+  "Undercity Sewers": {
+    "setShortName": "MKM",
+    "collectorNumber": "270",
+    "uuid": "2b5801fb-2026-4f25-98bc-ebb2f99684b9"
+  },
+  "Underground River": {
+    "setShortName": "FRC",
+    "collectorNumber": "87",
+    "uuid": "e8b05f37-815f-4854-bf82-ca544ca67532"
+  },
+  "Undergrowth Champion": {
+    "setShortName": "BFZ",
+    "collectorNumber": "197",
+    "uuid": "d53104d8-5b9a-45b6-a2f9-b2c5d231a03d"
+  },
+  "Unesh, Criosphinx Sovereign": {
+    "setShortName": "HOU",
+    "collectorNumber": "52",
+    "uuid": "fdd1a8b2-f4ba-45af-9586-98a98834b8bc"
+  },
+  "Unfinished Business": {
+    "setShortName": "FIC",
+    "collectorNumber": "259",
+    "uuid": "76c9b6c1-05de-4c16-8ebf-ea68aa110a69"
+  },
+  "Unnatural Growth": {
+    "setShortName": "MID",
+    "collectorNumber": "206",
+    "uuid": "6748a844-e185-4e3b-ac1d-8a735666d8ae"
+  },
+  "Urborg, Tomb of Yawgmoth": {
+    "setShortName": "M15",
+    "collectorNumber": "248",
+    "uuid": "fa48b15c-7312-4f3f-b7aa-b2ad98234bf1"
+  },
+  "Uril, the Miststalker": {
+    "setShortName": "2X2",
+    "collectorNumber": "290",
+    "uuid": "ca984fdb-aaca-4d8f-af2f-72387122607b"
   },
   "Urza's Incubator": {
     "setShortName": "MH3",
     "collectorNumber": "297",
     "uuid": "c4589226-6072-409b-b598-ebd87f675a6a"
   },
+  "Urza's Saga": {
+    "setShortName": "MH2",
+    "collectorNumber": "259",
+    "uuid": "c1e0f201-42cb-46a1-901a-65bb4fc18f6c"
+  },
+  "Utopia Sprawl": {
+    "setShortName": "DIS",
+    "collectorNumber": "99",
+    "uuid": "5047e271-fbf1-402c-9eb9-0806e5988f76"
+  },
+  "Valakut Exploration": {
+    "setShortName": "ZNR",
+    "collectorNumber": "175",
+    "uuid": "18cb7bf6-9c7c-4e62-a678-7b75862e2f64"
+  },
+  "Vampiric Tutor": {
+    "setShortName": "CMR",
+    "collectorNumber": "156",
+    "uuid": "18bd50f2-c3ba-4217-a2d5-bb771e199706"
+  },
+  "Vandalblast": {
+    "setShortName": "MSC",
+    "collectorNumber": "168",
+    "uuid": "71067239-d46f-4201-a91c-6aa4c41fa8b1"
+  },
+  "Vanquish the Horde": {
+    "setShortName": "MSC",
+    "collectorNumber": "146",
+    "uuid": "f392782b-7464-4617-b421-6b5d0e2880fc"
+  },
+  "Vanquisher's Banner": {
+    "setShortName": "LCC",
+    "collectorNumber": "316",
+    "uuid": "efa6944e-b5e2-4584-ae37-f5b59a8ec75e"
+  },
+  "Vault of Whispers": {
+    "setShortName": "MRD",
+    "collectorNumber": "286",
+    "uuid": "73866487-33f4-4f64-b100-2c4ddadcd74e"
+  },
+  "Verdant Catacombs": {
+    "setShortName": "MH2",
+    "collectorNumber": "260",
+    "uuid": "94c229ea-90da-4aa0-bfda-b162fb3b5b8b"
+  },
+  "Vincent, Vengeful Atoner": {
+    "setShortName": "FIC",
+    "collectorNumber": "64",
+    "uuid": "9e53d0b2-eeb0-4d54-86e5-723e05aaf6da"
+  },
+  "Void Rend": {
+    "setShortName": "SNC",
+    "collectorNumber": "230",
+    "uuid": "2daab74d-d66b-4164-aa19-24e8d5536f7d"
+  },
+  "Vorinclex, Voice of Hunger": {
+    "setShortName": "NPH",
+    "collectorNumber": "127",
+    "uuid": "0806adab-6a08-411b-b249-e1c58ade354b"
+  },
+  "Warden of Evos Isle": {
+    "setShortName": "CMR",
+    "collectorNumber": "106",
+    "uuid": "6bfc5cef-aa9b-45d4-a9c3-4b157e4ed193"
+  },
+  "Warstorm Surge": {
+    "setShortName": "CLB",
+    "collectorNumber": "815",
+    "uuid": "dbe1bfe0-0be7-496d-94db-e8028d4d9493"
+  },
+  "Watery Grave": {
+    "setShortName": "TRK",
+    "collectorNumber": "306",
+    "uuid": "5525d6a6-e532-4047-9da4-bfae7927fecc"
+  },
+  "Wayfarer's Bauble": {
+    "setShortName": "HOC",
+    "collectorNumber": "211",
+    "uuid": "b279f268-c37e-4a2d-8195-74f4881226fc"
+  },
+  "Where Ancients Tread": {
+    "setShortName": "C13",
+    "collectorNumber": "130",
+    "uuid": "abf25a2a-961c-42ef-8d76-aa089720b12c"
+  },
+  "Whispersilk Cloak": {
+    "setShortName": "MSC",
+    "collectorNumber": "225",
+    "uuid": "a3f31ac4-09ca-4712-a311-50d28824bfad"
+  },
+  "Windreader Sphinx": {
+    "setShortName": "JMP",
+    "collectorNumber": "194",
+    "uuid": "d0346326-6bdf-4385-ab41-7b06e9f66ffd"
+  },
+  "Windswept Heath": {
+    "setShortName": "MH3",
+    "collectorNumber": "235",
+    "uuid": "bd1d13f7-fd38-4f0b-a8e0-1eac78668117"
+  },
+  "Witchstalker": {
+    "setShortName": "M14",
+    "collectorNumber": "202",
+    "uuid": "5a5ce47d-ea4f-4e15-adb6-5bb66981ed24"
+  },
+  "Withering Torment": {
+    "setShortName": "MSC",
+    "collectorNumber": "162",
+    "uuid": "06d44ada-f98e-405f-89d3-ac1002bfb854"
+  },
+  "Wolfwillow Haven": {
+    "setShortName": "THB",
+    "collectorNumber": "205",
+    "uuid": "72b886c3-234c-49ce-9a11-456c1e8f092f"
+  },
+  "Wooded Foothills": {
+    "setShortName": "MH3",
+    "collectorNumber": "236",
+    "uuid": "4e11ea8a-f895-438d-a3b7-f070238e4161"
+  },
+  "Wooded Ridgeline": {
+    "setShortName": "DMU",
+    "collectorNumber": "260",
+    "uuid": "e8e31184-dca4-48b1-be9d-581247c41d99"
+  },
   "Worn Powerstone": {
     "setShortName": "MH3",
     "collectorNumber": "298",
     "uuid": "ace686ad-9e3f-41b3-b8eb-d1b6d45eb4e1"
+  },
+  "Wrecking Ball Arm": {
+    "setShortName": "FIC",
+    "collectorNumber": "100",
+    "uuid": "e1f16620-08d6-49bd-9f75-d89ae46bfd1f"
+  },
+  "Xorn": {
+    "setShortName": "AFR",
+    "collectorNumber": "167",
+    "uuid": "f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e"
+  },
+  "Yennett, Cryptic Sovereign": {
+    "setShortName": "CMM",
+    "collectorNumber": "363",
+    "uuid": "28ee11c9-fa23-4863-8a18-25a008f18da5"
+  },
+  "Yuffie, Materia Hunter": {
+    "setShortName": "FIC",
+    "collectorNumber": "65",
+    "uuid": "117bb5db-4a1c-4704-b0b5-c67b45ac2f52"
+  },
+  "Zack Fair": {
+    "setShortName": "FIN",
+    "collectorNumber": "45",
+    "uuid": "f21f9161-5945-40da-8da0-446f6a4a1c23"
+  },
+  "Zellix, Sanity Flayer": {
+    "setShortName": "CLB",
+    "collectorNumber": "652",
+    "uuid": "a5d57db6-0aa5-4e28-b156-e97b74af2cee"
+  },
+  "Zendikar's Roil": {
+    "setShortName": "ZNC",
+    "collectorNumber": "88",
+    "uuid": "60297593-2438-48d7-9414-48af114a93d2"
   }
 }
