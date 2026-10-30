@@ -99,6 +99,11 @@
     "collectorNumber": "56",
     "uuid": "c859f7cb-ac12-490e-b769-6f019791f2a5"
   },
+  "Arcane Denial": {
+    "setShortName": "SOC",
+    "collectorNumber": "187",
+    "uuid": "4931aa7c-b77b-4002-bfb1-b75a1bac1deb"
+  },
   "Arcane Sanctum": {
     "setShortName": "DSC",
     "collectorNumber": "259",
@@ -608,6 +613,11 @@
     "setShortName": "MSC",
     "collectorNumber": "172",
     "uuid": "e60deb92-f7dd-4f4e-9036-e47dd586f985"
+  },
+  "Cyclonic Rift": {
+    "setShortName": "RTR",
+    "collectorNumber": "35",
+    "uuid": "205c4689-8b02-4d40-9274-3c1fcafa8b82"
   },
   "Damnation": {
     "setShortName": "2X2",
@@ -1149,10 +1159,15 @@
     "collectorNumber": "213",
     "uuid": "eeac671f-2606-43ed-ad60-a69df5c150f6"
   },
+  "Into the Flood Maw": {
+    "setShortName": "BLB",
+    "collectorNumber": "52",
+    "uuid": "50b9575a-53d9-4df7-b86c-cda021107d3f"
+  },
   "Island": {
-    "setShortName": "SPM",
-    "collectorNumber": "190",
-    "uuid": "d59cb0b5-fd4f-4dde-a69f-7ca6aa12b89f"
+    "setShortName": "TMT",
+    "collectorNumber": "306",
+    "uuid": "aedefd13-4a00-4b8c-b955-ced6e73b46fe"
   },
   "Isolated Chapel": {
     "setShortName": "FRC",
@@ -1419,6 +1434,11 @@
     "collectorNumber": "169",
     "uuid": "a0e2098f-1d94-491a-a7e9-a45a9f69e3a8"
   },
+  "Mystic Remora": {
+    "setShortName": "TLE",
+    "collectorNumber": "16",
+    "uuid": "fce23be6-787a-43bb-8bfd-c6672fad9105"
+  },
   "Mystic Sanctuary": {
     "setShortName": "SOC",
     "collectorNumber": "388",
@@ -1584,6 +1604,11 @@
     "collectorNumber": "124",
     "uuid": "d9d36763-2975-4b5c-aeda-2d0159cb5191"
   },
+  "Propaganda": {
+    "setShortName": "FDC",
+    "collectorNumber": "72",
+    "uuid": "efc52d02-7d22-4ff6-b104-a6fe704e8ef2"
+  },
   "Puresteel Paladin": {
     "setShortName": "CMM",
     "collectorNumber": "51",
@@ -1728,6 +1753,11 @@
     "setShortName": "XLN",
     "collectorNumber": "117",
     "uuid": "79b0e035-8716-469d-99ae-a530cd96ef09"
+  },
+  "Rhystic Study": {
+    "setShortName": "WOT",
+    "collectorNumber": "71",
+    "uuid": "e6a06aad-6073-465b-89d0-8c4ae4307aff"
   },
   "River of Tears": {
     "setShortName": "MKC",
@@ -2139,6 +2169,11 @@
     "collectorNumber": "217",
     "uuid": "a365885c-f7d9-4ea1-9125-5265055e5570"
   },
+  "Talisman of Curiosity": {
+    "setShortName": "PIP",
+    "collectorNumber": "245",
+    "uuid": "9544d0d1-f9bb-43a5-9c39-db187a6efe3b"
+  },
   "Talisman of Dominance": {
     "setShortName": "FRC",
     "collectorNumber": "62",
@@ -2268,6 +2303,11 @@
     "setShortName": "DDU",
     "collectorNumber": "41",
     "uuid": "9a7800f7-95cd-4f5c-b054-4afad8924367"
+  },
+  "Tropical Island": {
+    "setShortName": "30A",
+    "collectorNumber": "279",
+    "uuid": "2d9d4f2e-5a41-410d-b1c3-47e4aca07177"
   },
   "Uchuulon": {
     "setShortName": "CLB",
@@ -2463,6 +2503,11 @@
     "setShortName": "DMU",
     "collectorNumber": "260",
     "uuid": "e8e31184-dca4-48b1-be9d-581247c41d99"
+  },
+  "Worldly Tutor": {
+    "setShortName": "DMR",
+    "collectorNumber": "353",
+    "uuid": "ba6706ed-f05b-411f-afa5-f6154f718c80"
   },
   "Worn Powerstone": {
     "setShortName": "MH3",
