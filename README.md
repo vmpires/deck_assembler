@@ -88,5 +88,3 @@ Local `master` is the library. It holds every session. It has no upstream.
 GitHub `master` is the `publish` branch. That tip keeps the harness and one example, [decks/2026-09-30-goro-goro/](decks/2026-09-30-goro-goro/). Personal sessions stay on local `master`.
 
 Commit deck sessions on local `master`. Push harness updates from `publish`. Merging GitHub `master` into local `master` removes session folders that the public commit deleted, so the two branches stay diverged.
-
-Older commits on GitHub still contain earlier decks. The remote branch `cursor/edgar-markov-deck-41e2` still has the Edgar list. Clearing those from history is a separate force push.
