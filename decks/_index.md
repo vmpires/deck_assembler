@@ -8,6 +8,6 @@ The published branch keeps one example. Personal sessions stay on the local `mas
 
 | Date | Slug | Format | Commander / shell | Status |
 | --- | --- | --- | --- | --- |
-| 2026-10-29 | ghyrson | commander | Ghyrson Starn, Kelermorph | done |
+| 2026-09-30 | goro-goro | commander | Goro-Goro and Satoru | done |
 
 Status: `commanders` → `mechanics` → `list` → `done`. `imported` means a `.cod` was loaded and validate did not pass.

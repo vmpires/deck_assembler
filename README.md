@@ -85,7 +85,7 @@ Out unless you ask: stax, prison, mass land destruction, extra-turn chains, chao
 
 Local `master` is the library. It holds every session. It has no upstream.
 
-GitHub `master` is the `publish` branch. That tip keeps the harness and one example, [decks/2026-10-29-ghyrson/](decks/2026-10-29-ghyrson/). Personal sessions stay on local `master`.
+GitHub `master` is the `publish` branch. That tip keeps the harness and one example, [decks/2026-09-30-goro-goro/](decks/2026-09-30-goro-goro/). Personal sessions stay on local `master`.
 
 Commit deck sessions on local `master`. Push harness updates from `publish`. Merging GitHub `master` into local `master` removes session folders that the public commit deleted, so the two branches stay diverged.
 
