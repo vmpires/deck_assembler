@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_deck version="1">
+    <deckname>Reaper King blink</deckname>
+    <comments>Official artifact from deck assembler.
+Source: decks/2026-11-12-scarecrows/list.txt
+Format: commander
+Commander: Reaper King</comments>
+    <zone name="main">
+        <card number="1" name="Reaper King" />
+        <card number="1" name="An Offer You Can't Refuse" setShortName="FDN" collectorNumber="160" uuid="a829747f-cf9b-4d81-ba66-9f0630ed4565" />
+        <card number="1" name="Arcane Adaptation" />
+        <card number="1" name="Arcane Signet" setShortName="P30M" collectorNumber="1F" uuid="e96d398f-7393-4b8e-9972-2d7c394d23ad" />
+        <card number="1" name="Assassin's Trophy" />
+        <card number="1" name="Beast Within" setShortName="MSC" collectorNumber="169" uuid="400b43aa-c1d2-4435-b863-061f43889422" />
+        <card number="1" name="Birds of Paradise" setShortName="MSC" collectorNumber="170" uuid="492c2f9a-51e7-4e0f-9899-23bf43ea988b" />
+        <card number="1" name="Bloodline Pretender" />
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416" />
+        <card number="1" name="Breeding Pool" />
+        <card number="1" name="Cavern of Souls" setShortName="LCI" collectorNumber="269" uuid="3aad15a2-8a1b-4460-9b06-e85863081878" />
+        <card number="1" name="Changeling Outcast" />
+        <card number="1" name="Chaos Warp" setShortName="MSC" collectorNumber="359" uuid="64342374-ef4e-4f27-a24b-12ea1d5beb67" />
+        <card number="1" name="Chomping Changeling" />
+        <card number="1" name="Chromatic Lantern" />
+        <card number="1" name="City of Brass" />
+        <card number="1" name="Cloudshift" />
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e" />
+        <card number="1" name="Conjurer's Closet" />
+        <card number="1" name="Cyclonic Rift" setShortName="RTR" collectorNumber="35" uuid="205c4689-8b02-4d40-9274-3c1fcafa8b82" />
+        <card number="1" name="Deadeye Navigator" />
+        <card number="1" name="Delighted Halfling" setShortName="PLTR" collectorNumber="158s" uuid="10829a5d-d8cd-4285-8fd1-da52c61eed0e" />
+        <card number="1" name="Demonic Tutor" setShortName="DDC" collectorNumber="49" uuid="c1e5fbc6-d129-4843-96a5-ee4406b2700f" />
+        <card number="1" name="Dread Tiller" />
+        <card number="1" name="Eerie Interlude" />
+        <card number="1" name="Eiganjo, Seat of the Empire" />
+        <card number="1" name="Eladamri's Call" />
+        <card number="1" name="Eldrazi Displacer" />
+        <card number="1" name="Elesh Norn, Mother of Machines" />
+        <card number="1" name="Ephemerate" />
+        <card number="1" name="Esper Sentinel" />
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792" />
+        <card number="1" name="Fabricate" />
+        <card number="1" name="Farseek" setShortName="MSC" collectorNumber="173" uuid="c1aac0f5-1d01-4673-b8d3-878d9a1d423c" />
+        <card number="1" name="Fellwar Stone" setShortName="MSC" collectorNumber="285" uuid="1e24e2bc-b239-4f9a-85c0-5f272f58ed43" />
+        <card number="1" name="Fierce Guardianship" />
+        <card number="1" name="Flooded Strand" />
+        <card number="1" name="Foraging Wickermaw" />
+        <card number="1" name="Forest" setShortName="HOB" collectorNumber="198" uuid="5f533364-0f91-4e49-aaeb-83c4c1f6d316" />
+        <card number="1" name="Ghostly Flicker" />
+        <card number="1" name="Guardian Project" />
+        <card number="1" name="Hallowed Fountain" setShortName="TRK" collectorNumber="286" uuid="b7285986-7e08-4969-86ef-452dc5bfdd9f" />
+        <card number="1" name="Heap Doll" />
+        <card number="1" name="Heroic Intervention" setShortName="CMM" collectorNumber="295" uuid="e32c67d1-187f-40df-b3b3-6036f5c92834" />
+        <card number="1" name="Indatha Triome" />
+        <card number="1" name="Island" setShortName="TMT" collectorNumber="306" uuid="aedefd13-4a00-4b8c-b955-ced6e73b46fe" />
+        <card number="1" name="Kindred Discovery" setShortName="MSC" collectorNumber="150" uuid="19bdedb2-768b-4adf-8193-917a10c8f729" />
+        <card number="1" name="Lightning Greaves" setShortName="MSC" collectorNumber="202" uuid="b61634ae-05be-4b56-8ebb-9d4ade902e42" />
+        <card number="1" name="Mana Confluence" />
+        <card number="1" name="Masked Vandal" />
+        <card number="1" name="Maskwood Nexus" />
+        <card number="1" name="Mirror Entity" />
+        <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141" />
+        <card number="1" name="Mountain" setShortName="MSH" collectorNumber="440" uuid="bc4409dc-aadf-4c0e-a854-190ccc971ea5" />
+        <card number="1" name="Mystic Remora" setShortName="TLE" collectorNumber="16" uuid="fce23be6-787a-43bb-8bfd-c6672fad9105" />
+        <card number="1" name="Nature's Lore" setShortName="MSC" collectorNumber="177" uuid="7afc4a15-5ff8-457a-aa62-803b2d78d912" />
+        <card number="1" name="Otawara, Soaring City" />
+        <card number="1" name="Overgrown Tomb" />
+        <card number="1" name="Painter's Servant" />
+        <card number="1" name="Panharmonicon" />
+        <card number="1" name="Path of Ancestry" setShortName="MSC" collectorNumber="254" uuid="836b8f52-10d2-4716-9f7b-38fb23bc68de" />
+        <card number="1" name="Plains" setShortName="HOB" collectorNumber="194" uuid="24dc369c-020a-4115-a4bb-d60a44de64e3" />
+        <card number="1" name="Plaza of Heroes" />
+        <card number="1" name="Preston, the Vanisher" />
+        <card number="1" name="Raugrin Triome" />
+        <card number="1" name="Realmwalker" />
+        <card number="1" name="Reflecting Pool" />
+        <card number="1" name="Reliquary Tower" setShortName="SOC" collectorNumber="398" uuid="e2a27742-08c1-4153-af7f-25a7a98f585e" />
+        <card number="1" name="Restoration Angel" />
+        <card number="1" name="Scalding Tarn" setShortName="MH2" collectorNumber="254" uuid="71e491c5-8c07-449b-b2f1-ffa052e6d311" />
+        <card number="1" name="Scarecrone" />
+        <card number="1" name="Scuttlemutt" />
+        <card number="1" name="Secluded Courtyard" />
+        <card number="1" name="Skullclamp" setShortName="MSC" collectorNumber="210" uuid="1d8b007b-3169-4ee3-80c7-781fc096fc7a" />
+        <card number="1" name="Sol Ring" setShortName="DRC" collectorNumber="57" uuid="c946b161-0e4f-4c0a-a075-cdcf05504d0b" />
+        <card number="1" name="Soulherder" />
+        <card number="1" name="Spark Double" />
+        <card number="1" name="Starting Town" />
+        <card number="1" name="Steam Vents" />
+        <card number="1" name="Swan Song" setShortName="EOC" collectorNumber="46" uuid="83d0b761-d694-4232-9f40-5bd8c82a05f1" />
+        <card number="1" name="Swamp" setShortName="SPM" collectorNumber="191" uuid="5cb03b18-d74c-4c89-9539-3549d2e8ff5f" />
+        <card number="1" name="Swords to Plowshares" setShortName="TDC" collectorNumber="134" uuid="f87cf997-14b5-4a2c-a7d1-34b7de6561a2" />
+        <card number="1" name="Teleportation Circle" />
+        <card number="1" name="Temple Garden" setShortName="TRK" collectorNumber="301" uuid="b9b0589d-f327-46a7-8bac-06b7654c547a" />
+        <card number="1" name="Thassa, Deep-Dwelling" />
+        <card number="1" name="The Reaper, King No More" />
+        <card number="1" name="The World Tree" />
+        <card number="1" name="Three Tree City" />
+        <card number="1" name="Three Visits" setShortName="MSC" collectorNumber="181" uuid="99bf792f-963e-4509-8d3c-7db129c6a77f" />
+        <card number="1" name="Unsettled Mariner" />
+        <card number="1" name="Universal Automaton" />
+        <card number="1" name="Urza's Saga" setShortName="MH2" collectorNumber="259" uuid="c1e0f201-42cb-46a1-901a-65bb4fc18f6c" />
+        <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b" />
+        <card number="1" name="Wild-Field Scarecrow" />
+        <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117" />
+        <card number="1" name="Wingrattle Scarecrow" />
+        <card number="1" name="Wreckage Wickerfolk" />
+        <card number="1" name="Yavimaya, Cradle of Growth" />
+        <card number="1" name="Yorion, Sky Nomad" />
+        <card number="1" name="Zagoth Triome" />
+    </zone>
+    <zone name="side" />
+</cockatrice_deck>

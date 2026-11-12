@@ -3,7 +3,7 @@
 - **Idea:** Scarecrow tribal / typal. Does a scarecrow deck make sense, and which commanders can carry it.
 - **Format:** commander
 - **Bracket / power target:** high Bracket 3 / low Bracket 4 (default). At most 3 Game Changers. No MLD, no extra-turn chains, no stax.
-- **Colors / identity:** WUBRG — **Reaper King** (picked).
+- **Colors / identity:** WUBRG — **Reaper King** (picked). Mechanic: **A. Blink ETB control**.
 - **Refusal / keep:** No stax, prison, chaos, or cEDH. Graveyard and politics only if the pick is about them (persist / steal, or Rendmaw goad).
 
 ## Reality check (Scryfall)

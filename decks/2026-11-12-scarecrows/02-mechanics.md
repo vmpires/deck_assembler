@@ -49,6 +49,6 @@ Propose 2–4 distinct game plans. Exemplar cards must already be confirmed with
 
 **A** is the plan that makes Reaper King worth the five-color tax. **B** is the better 99 if you want the destroy trigger without playing bad scarecrows — it pairs cleanly with a *light* blink package. **C** if you want to attack. **D** if you want artifacts more than the type.
 
-## Stop
+## Pick
 
-Waiting for a pick. Do not write the full list yet.
+**A. Blink ETB control** — locked. List is in `list.txt` / `deck.cod`.
