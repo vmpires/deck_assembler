@@ -3,7 +3,7 @@
 - **Idea:** Scarecrow tribal / typal — playable only if the commander rewards the type, overlays the type, or uses a mechanic the tribe already has (artifact creatures, wither).
 - **Format:** commander
 - **Bracket / role target:** high Bracket 3 / low Bracket 4
-- **Colors / identity (if known):** open
+- **Colors / identity (if known):** WUBRG — Reaper King picked. Waiting on a mechanic.
 - **Scryfall queries used:**
   - `is:commander o:scarecrow`
   - `t:scarecrow is:commander`
